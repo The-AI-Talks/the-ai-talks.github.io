@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI-Talks@SG</title>
+    <link>https://www.aitalks.asia/</link>
+    <description>Recent content on AI-Talks@SG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aitalks.asia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Title of the talk</title>
+      <link>https://www.aitalks.asia/talks/example/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aitalks.asia/talks/example/</guid>
+      <description>Abstract Here is the abstract of the talk.
+Video Coming soon. Stay tuned. :)</description>
+    </item>
+    
+    <item>
+      <title>Subscribe</title>
+      <link>https://www.aitalks.asia/subscribe/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aitalks.asia/subscribe/</guid>
+      <description>Please subscribe to our newsletter to receive the latest updates. :)
+Email address: powered by TinyLetter</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.aitalks.asia/about/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aitalks.asia/about/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://www.aitalks.asia/contact/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aitalks.asia/contact/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://www.aitalks.asia/people/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aitalks.asia/people/</guid>
+      <description>Organizing Committee Iron Man Avengers, US
+Captain America Avengers, US
+Thor Avengers, US
+Hulk Avengers, US
+Black Widow Avengers, US
+Hawkeye Avengers, US</description>
+    </item>
+    
+  </channel>
+</rss>

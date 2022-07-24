@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on AI-Talks@SG</title>
+    <link>https://www.aitalks.asia/series/</link>
+    <description>Recent content in Series on AI-Talks@SG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://www.aitalks.asia/series/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
