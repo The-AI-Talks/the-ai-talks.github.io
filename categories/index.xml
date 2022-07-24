@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on AI-Talks@SG</title>
-    <link>https://www.aitalks.asia/categories/</link>
+    <link>http://ai-talks.org/categories/</link>
     <description>Recent content in Categories on AI-Talks@SG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://www.aitalks.asia/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://ai-talks.org/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

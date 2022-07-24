@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.aitalks.asia/</loc>
+    <loc>http://ai-talks.org/</loc>
     <lastmod>2022-07-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.aitalks.asia/talks/</loc>
+    <loc>http://ai-talks.org/talks/</loc>
     <lastmod>2022-07-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.aitalks.asia/talks/example/</loc>
+    <loc>http://ai-talks.org/talks/example/</loc>
     <lastmod>2022-07-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.aitalks.asia/subscribe/</loc>
+    <loc>http://ai-talks.org/subscribe/</loc>
     <lastmod>2022-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.aitalks.asia/about/</loc>
+    <loc>http://ai-talks.org/about/</loc>
     <lastmod>2022-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.aitalks.asia/contact/</loc>
+    <loc>http://ai-talks.org/contact/</loc>
     <lastmod>2022-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.aitalks.asia/people/</loc>
+    <loc>http://ai-talks.org/people/</loc>
     <lastmod>2022-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.aitalks.asia/authors/</loc>
+    <loc>http://ai-talks.org/authors/</loc>
   </url><url>
-    <loc>https://www.aitalks.asia/categories/</loc>
+    <loc>http://ai-talks.org/categories/</loc>
   </url><url>
-    <loc>https://www.aitalks.asia/series/</loc>
+    <loc>http://ai-talks.org/series/</loc>
   </url><url>
-    <loc>https://www.aitalks.asia/tags/</loc>
+    <loc>http://ai-talks.org/tags/</loc>
   </url>
 </urlset>
