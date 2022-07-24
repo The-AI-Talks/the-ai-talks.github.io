@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AI-Talks@SG</title>
+    <title>AI-Talks</title>
     <link>http://theaitalks.org/</link>
-    <description>Recent content on AI-Talks@SG</description>
+    <description>Recent content on AI-Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/index.xml" rel="self" type="application/rss+xml" />
@@ -51,12 +51,11 @@ Email address: powered by TinyLetter</description>
       <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>http://theaitalks.org/people/</guid>
-      <description>Organizing Committee Iron Man Avengers, US
+      <description>Organizing Committee (Tentative) Iron Man Avengers, US
 Captain America Avengers, US
-Thor Avengers, US
-Hulk Avengers, US
 Black Widow Avengers, US
-Hawkeye Avengers, US</description>
+Superman Justice League, US
+Batman Justice League, US</description>
     </item>
     
   </channel>
