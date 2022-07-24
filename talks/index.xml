@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks on AI-Talks@SG</title>
-    <link>http://ai-talks.org/talks/</link>
+    <link>http://theaitalks.org/talks/</link>
     <description>Recent content in Talks on AI-Talks@SG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://ai-talks.org/talks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/talks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Title of the talk</title>
-      <link>http://ai-talks.org/talks/example/</link>
+      <link>http://theaitalks.org/talks/example/</link>
       <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://ai-talks.org/talks/example/</guid>
+      <guid>http://theaitalks.org/talks/example/</guid>
       <description>Abstract Here is the abstract of the talk.
 Video Coming soon. Stay tuned. :)</description>
     </item>
