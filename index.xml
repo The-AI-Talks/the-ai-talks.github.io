@@ -6,14 +6,15 @@
     <description>Recent content on AI-Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Title of the talk</title>
       <link>http://theaitalks.org/talks/example/</link>
-      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>http://theaitalks.org/talks/example/</guid>
-      <description>Abstract Here is the abstract of the talk.
+      <description>Speaker Brief introduction of the speaker.
+Abstract The abstract of the talk.
 Video Coming soon. Stay tuned. :)</description>
     </item>
     
