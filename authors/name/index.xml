@@ -6,18 +6,7 @@
     <description>Recent content in Name on AI Talks SG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/authors/name/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Title of the talk</title>
-      <link>http://theaitalks.org/talks/talk_02/</link>
-      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://theaitalks.org/talks/talk_02/</guid>
-      <description>Speaker Brief introduction of the speaker.
-Abstract The abstract of the talk.
-Video Coming soon. Stay tuned. :)</description>
-    </item>
-    
+    <lastBuildDate>Thu, 04 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/authors/name/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Title of the talk</title>
       <link>http://theaitalks.org/talks/talk_01/</link>
