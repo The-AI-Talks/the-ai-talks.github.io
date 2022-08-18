@@ -2,17 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://theaitalks.org/contact/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://theaitalks.org/</loc>
-    <lastmod>2022-08-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/authors/</loc>
-    <lastmod>2022-08-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/authors/name/</loc>
-    <lastmod>2022-08-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/talks/</loc>
-    <lastmod>2022-08-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/talks/talk_02/</loc>
+    <lastmod>2022-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/talks/talk_01/</loc>
     <lastmod>2022-08-04T00:00:00+00:00</lastmod>
