@@ -2,21 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://theaitalks.org/</loc>
-    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/authors/</loc>
-    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/authors/name/</loc>
-    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/talks/</loc>
-    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/talks/20221013/</loc>
-    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://theaitalks.org/contact/</loc>
     <lastmod>2022-08-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -28,6 +13,10 @@
   </url><url>
     <loc>http://theaitalks.org/people/</loc>
     <lastmod>2022-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/</loc>
+  </url><url>
+    <loc>http://theaitalks.org/authors/</loc>
   </url><url>
     <loc>http://theaitalks.org/categories/</loc>
   </url><url>
