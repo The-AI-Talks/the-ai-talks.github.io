@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AI Talks SG</title>
+    <title>The AI Talks</title>
     <link>http://theaitalks.org/</link>
-    <description>Recent content on AI Talks SG</description>
+    <description>Recent content on The AI Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TBD</title>
+      <link>http://theaitalks.org/talks/2022/1020/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2022/1020/</guid>
+      <description>Speaker Homepage: https://kingspencer.github.io/.
+Abstract TBD.
+Video Coming soon. Stay tuned. :)</description>
+    </item>
+    
     <item>
       <title>TBD</title>
       <link>http://theaitalks.org/talks/2022/1013/</link>
@@ -66,7 +77,7 @@ Video Coming soon. Stay tuned. :)</description>
       <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>http://theaitalks.org/subscribe/</guid>
-      <description>Please click here to subscribe to our newsletter to receive the latest updates. :-)</description>
+      <description>Please subscribe to our newsletter to receive the latest updates. Also feel free to join our slack channel, which is aimed at providing a shared, vibrant, and interdisciplinary space for researchers and practitioners interested in AI to talk about research, opportunities, or collaborations.</description>
     </item>
     
     <item>
@@ -84,7 +95,7 @@ Video Coming soon. Stay tuned. :)</description>
       <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>http://theaitalks.org/people/</guid>
-      <description>Organizing Committee (Tentative) Iron Man Avengers, US
+      <description>Steering Committee Iron Man Avengers, US
 Captain America Avengers, US
 Black Widow Avengers, US
 Superman Justice League, US
