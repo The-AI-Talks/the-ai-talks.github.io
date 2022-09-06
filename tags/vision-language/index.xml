@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chunyuan Li on The AI Talks</title>
-    <link>http://theaitalks.org/authors/chunyuan-li/</link>
-    <description>Recent content in Chunyuan Li on The AI Talks</description>
+    <title>vision &amp; language on The AI Talks</title>
+    <link>http://theaitalks.org/tags/vision-language/</link>
+    <description>Recent content in vision &amp; language on The AI Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/authors/chunyuan-li/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/vision-language/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Vision-and-Language Approach to Computer Vision in the Wild: Modeling &amp; Benchmark</title>
       <link>http://theaitalks.org/talks/2022/0908/</link>

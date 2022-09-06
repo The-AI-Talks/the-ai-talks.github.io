@@ -5,6 +5,43 @@
     <link>http://theaitalks.org/tags/</link>
     <description>Recent content in Tags on The AI Talks</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://theaitalks.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 08 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>benchmark</title>
+      <link>http://theaitalks.org/tags/benchmark/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/benchmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer vision</title>
+      <link>http://theaitalks.org/tags/computer-vision/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>foundation models</title>
+      <link>http://theaitalks.org/tags/foundation-models/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/foundation-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vision &amp; language</title>
+      <link>http://theaitalks.org/tags/vision-language/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/vision-language/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

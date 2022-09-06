@@ -9,21 +9,15 @@
 
 
 <meta name="author" content="The AI Talks">
-<meta name="description" content="Speaker Homepage: https://chunyuan.li/.
-Abstract TBD.
-Video Coming soon. Stay tuned. :)">
+<meta name="description" content="Speaker Bio: Chunyuan Li is currently a Principal Researcher in the Deep Learning Team at Microsoft Research, Redmond. Before that, Chunyuan obtained his PhD at Duke University, working on probabilistic deep learning. He also spent time with Uber AI, Adobe Research, NIST and INRIA. At MSR, Chunyuan is mainly working on large-scale pre-training in computer vision (CV) and vision-language multimodality (MM), with a focus on building transferable vision models that can effortlessly generalize to a wide range of downstream CV &amp; MM tasks.">
 <meta name="keywords" content="AI,talks,workshops,tutorials">
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="TBD"/>
-<meta name="twitter:description" content="Speaker Homepage: https://chunyuan.li/.
-Abstract TBD.
-Video Coming soon. Stay tuned. :)"/>
+<meta name="twitter:title" content="A Vision-and-Language Approach to Computer Vision in the Wild: Modeling &amp; Benchmark"/>
+<meta name="twitter:description" content="Speaker Bio: Chunyuan Li is currently a Principal Researcher in the Deep Learning Team at Microsoft Research, Redmond. Before that, Chunyuan obtained his PhD at Duke University, working on probabilistic deep learning. He also spent time with Uber AI, Adobe Research, NIST and INRIA. At MSR, Chunyuan is mainly working on large-scale pre-training in computer vision (CV) and vision-language multimodality (MM), with a focus on building transferable vision models that can effortlessly generalize to a wide range of downstream CV &amp; MM tasks."/>
 
-<meta property="og:title" content="TBD" />
-<meta property="og:description" content="Speaker Homepage: https://chunyuan.li/.
-Abstract TBD.
-Video Coming soon. Stay tuned. :)" />
+<meta property="og:title" content="A Vision-and-Language Approach to Computer Vision in the Wild: Modeling &amp; Benchmark" />
+<meta property="og:description" content="Speaker Bio: Chunyuan Li is currently a Principal Researcher in the Deep Learning Team at Microsoft Research, Redmond. Before that, Chunyuan obtained his PhD at Duke University, working on probabilistic deep learning. He also spent time with Uber AI, Adobe Research, NIST and INRIA. At MSR, Chunyuan is mainly working on large-scale pre-training in computer vision (CV) and vision-language multimodality (MM), with a focus on building transferable vision models that can effortlessly generalize to a wide range of downstream CV &amp; MM tasks." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://theaitalks.org/talks/2022/0908/" /><meta property="article:section" content="talks" />
 <meta property="article:published_time" content="2022-09-08T00:00:00+00:00" />
@@ -148,7 +142,7 @@ Video Coming soon. Stay tuned. :)" />
         <div class="post-title">
           <h1 class="title">
             <a class="title-link" href="http://theaitalks.org/talks/2022/0908/">
-              TBD
+              A Vision-and-Language Approach to Computer Vision in the Wild: Modeling &amp; Benchmark
             </a>
           </h1>
         </div>
@@ -166,7 +160,24 @@ Video Coming soon. Stay tuned. :)" />
     <a href="/authors/chunyuan-li/">Chunyuan Li</a></div>
 
           
-          
+          <div class="tags">
+  <i class="fa fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/tags/computer-vision/">computer vision</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/vision-language/">vision &amp; language</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/benchmark/">benchmark</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/foundation-models/">foundation models</a>
+    </span></div>
+
         </div>
       </header>
 
@@ -178,14 +189,24 @@ Video Coming soon. Stay tuned. :)" />
     <i class="fa fa-link" aria-hidden="true"></i>
   </a>
 </h1>
-<p>Homepage: <a href="https://chunyuan.li/">https://chunyuan.li/</a>.</p>
+<p><strong>Bio</strong>: Chunyuan Li is currently a Principal Researcher in the Deep Learning Team at Microsoft Research, Redmond. Before that, Chunyuan obtained his PhD at Duke University, working on probabilistic deep learning. He also spent time with Uber AI, Adobe Research, NIST and INRIA. At MSR, Chunyuan is mainly working on large-scale pre-training in computer vision (CV) and vision-language multimodality (MM), with a focus on building transferable vision models that can effortlessly generalize to a wide range of downstream CV &amp; MM tasks. Chunyuan’s research has been published in many top venue conferences, including multiple oral / spotlight presentations in NeurIPS, ICLR, ICML, CVPR and ACL, as well as the Best Paper Finalist Award in CVPR 2022.</p>
+<p><strong>Homepage</strong>: <a href="https://chunyuan.li/">https://chunyuan.li/</a>.</p>
 <h1 id="abstract">
   Abstract
   <a class="heading-link" href="#abstract">
     <i class="fa fa-link" aria-hidden="true"></i>
   </a>
 </h1>
-<p>TBD.</p>
+<p>The future of AI is in creating systems like foundation models that are pre-trained once, and will handle countless many downstream tasks directly (zero-shot), or adapt to new tasks quickly (few-shot). In this talk, I will focus on discussing our recent research explorations in building such a transferable system in computer vision (CV)  that  can effortlessly generalize to a wide range of visual recognition tasks in the wild. (1) As a research background, I will briefly mention our efforts  on modeling. We are taking a vision-and-language (VL) approach, where every visual recognition task can be reformulated as an image-and-text matching problem. This is exemplified by UniCL[1] / Florence [2] for image classification, GLIP [3] for object detection, and KLITE [4] that demonstrates the advantage of the reformulation of CV as VL (it allows leveraging external knowledge). (2)  I will also talk about benchmark ELEVATER [5] to evaluate the task-level transfer ability of pre-trained visual models, to measure the research progress in this direction. It consists of 20 image classification datasets and 35 object detection datasets. Based on which, we are also organizing an ECCV workshop [6] that aims to bring together the community effort to collaboratively tackle the challenge of computer vision in the wild.</p>
+<p><strong>References</strong>:</p>
+<ol>
+<li>Unified Contrastive Learning in Image-Text-Label Space <a href="https://arxiv.org/abs/2204.03610">https://arxiv.org/abs/2204.03610</a></li>
+<li>Florence: A New Foundation Model for Computer Vision <a href="https://arxiv.org/abs/2111.11432">https://arxiv.org/abs/2111.11432</a></li>
+<li>Grounded Language-Image Pre-training <a href="https://arxiv.org/abs/2112.03857">https://arxiv.org/abs/2112.03857</a></li>
+<li>K-LITE: Learning Transferable Visual Models with External Knowledge <a href="https://arxiv.org/abs/2204.09222">https://arxiv.org/abs/2204.09222</a></li>
+<li>ELEVATER: A Benchmark and Toolkit for Evaluating Language-Augmented Visual Models <a href="https://arxiv.org/abs/2204.08790">https://arxiv.org/abs/2204.08790</a></li>
+<li>ECCV Workshop <a href="https://computer-vision-in-the-wild.github.io/eccv-2022/">https://computer-vision-in-the-wild.github.io/eccv-2022/</a></li>
+</ol>
 <h1 id="video">
   Video
   <a class="heading-link" href="#video">
