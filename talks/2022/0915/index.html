@@ -9,21 +9,15 @@
 
 
 <meta name="author" content="The AI Talks">
-<meta name="description" content="Speaker Homepage: http://www.mit.edu/~yuzhe/.
-Abstract TBD.
-Video Coming soon. Stay tuned. :)">
+<meta name="description" content="Speaker Bio: Yuzhe Yang is a PhD student in computer science at MIT CSAIL. He received his B.S. degree in EECS at Peking University. His research interests include machine learning and AI for healthcare. His research focuses on fundamental machine learning algorithms for model robustness and generalization to enable real-world applications especially in health domain, as well as building innovative learning systems to enable new modalities and frameworks for digital health.">
 <meta name="keywords" content="AI,talks,workshops,tutorials">
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="TBD"/>
-<meta name="twitter:description" content="Speaker Homepage: http://www.mit.edu/~yuzhe/.
-Abstract TBD.
-Video Coming soon. Stay tuned. :)"/>
+<meta name="twitter:title" content="Using AI to Diagnose and Assess Parkinson&#39;s Disease: Challenges, Algorithms, and Applications"/>
+<meta name="twitter:description" content="Speaker Bio: Yuzhe Yang is a PhD student in computer science at MIT CSAIL. He received his B.S. degree in EECS at Peking University. His research interests include machine learning and AI for healthcare. His research focuses on fundamental machine learning algorithms for model robustness and generalization to enable real-world applications especially in health domain, as well as building innovative learning systems to enable new modalities and frameworks for digital health."/>
 
-<meta property="og:title" content="TBD" />
-<meta property="og:description" content="Speaker Homepage: http://www.mit.edu/~yuzhe/.
-Abstract TBD.
-Video Coming soon. Stay tuned. :)" />
+<meta property="og:title" content="Using AI to Diagnose and Assess Parkinson&#39;s Disease: Challenges, Algorithms, and Applications" />
+<meta property="og:description" content="Speaker Bio: Yuzhe Yang is a PhD student in computer science at MIT CSAIL. He received his B.S. degree in EECS at Peking University. His research interests include machine learning and AI for healthcare. His research focuses on fundamental machine learning algorithms for model robustness and generalization to enable real-world applications especially in health domain, as well as building innovative learning systems to enable new modalities and frameworks for digital health." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://theaitalks.org/talks/2022/0915/" /><meta property="article:section" content="talks" />
 <meta property="article:published_time" content="2022-09-15T00:00:00+00:00" />
@@ -61,7 +55,7 @@ Video Coming soon. Stay tuned. :)" />
    
   
     
-    <link rel="stylesheet" href="/css/custom.min.011a92b489bc2613aab1435c71d108b031406e1405f8c820132b2c55c4828d71.css" integrity="sha256-ARqStIm8JhOqsUNccdEIsDFAbhQF&#43;MggEyssVcSCjXE=" crossorigin="anonymous" media="screen" />
+    <link rel="stylesheet" href="/css/custom.min.faf304fb8734094845a52bdcc1f0cb3f7907aeec2c547b39495c8acef9b09143.css" integrity="sha256-&#43;vME&#43;4c0CUhFpSvcwfDLP3kHruwsVHs5SVyKzvmwkUM=" crossorigin="anonymous" media="screen" />
   
 
 
@@ -148,7 +142,7 @@ Video Coming soon. Stay tuned. :)" />
         <div class="post-title">
           <h1 class="title">
             <a class="title-link" href="http://theaitalks.org/talks/2022/0915/">
-              TBD
+              Using AI to Diagnose and Assess Parkinson&#39;s Disease: Challenges, Algorithms, and Applications
             </a>
           </h1>
         </div>
@@ -166,7 +160,28 @@ Video Coming soon. Stay tuned. :)" />
     <a href="/authors/yuzhe-yang/">Yuzhe Yang</a></div>
 
           
-          
+          <div class="tags">
+  <i class="fa fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/tags/machine-learning/">machine learning</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/healthcare/">healthcare</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/data-imbalance/">data imbalance</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/domain-generalization/">domain generalization</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/multi-task-learning/">multi-task learning</a>
+    </span></div>
+
         </div>
       </header>
 
@@ -178,14 +193,15 @@ Video Coming soon. Stay tuned. :)" />
     <i class="fa fa-link" aria-hidden="true"></i>
   </a>
 </h1>
-<p>Homepage: <a href="http://www.mit.edu/~yuzhe/">http://www.mit.edu/~yuzhe/</a>.</p>
+<p><strong>Bio</strong>: Yuzhe Yang is a PhD student in computer science at MIT CSAIL. He received his B.S. degree in EECS at Peking University. His research interests include machine learning and AI for healthcare. His research focuses on fundamental machine learning algorithms for model robustness and generalization to enable real-world applications especially in health domain, as well as building innovative learning systems to enable new modalities and frameworks for digital health. His research has been published at top interdisciplinary journals and AI/ML conferences including Nature Medicine, Science Translational Medicine, NeurIPS, ICML, ICLR, CVPR, and ECCV, and his works have been recognized by the MathWorks Fellowship, and media coverage from MIT Tech Review, Wall Street Journal, Forbes, BBC, The Washington Post, etc.</p>
+<p><strong>Homepage</strong>: <a href="http://www.mit.edu/~yuzhe/">http://www.mit.edu/~yuzhe/</a>.</p>
 <h1 id="abstract">
   Abstract
   <a class="heading-link" href="#abstract">
     <i class="fa fa-link" aria-hidden="true"></i>
   </a>
 </h1>
-<p>TBD.</p>
+<p>There are currently no effective biomarkers for diagnosing Parkinson’s disease (PD) or tracking its progression. In this talk, I will present an artificial intelligence (AI) model to detect PD and track its progression from nocturnal breathing signals. I’ll first discuss background, problem setup, and general challenges and principles for designing such AI models in the wild for health applications: sparse supervision, data imbalance, and distribution shift. I’ll present the most general form of each principle before providing concrete instantiations of using each in practice. This will include a simple multi-task learning method that incorporates health domain knowledge and for AI model interpretation, a framework for learning imbalanced data with continuous targets, and an algorithm that enables learning from multi-domain imbalanced data as well as imbalanced domain generalization with theoretical guarantees. Finally, I will conclude with implications and applications of using AI to advance digital medicine and other real-world applications.</p>
 <h1 id="video">
   Video
   <a class="heading-link" href="#video">
