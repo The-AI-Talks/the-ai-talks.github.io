@@ -6,62 +6,7 @@
     <description>Recent content on The AI Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>TBD</title>
-      <link>http://theaitalks.org/talks/2022/1020/</link>
-      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://theaitalks.org/talks/2022/1020/</guid>
-      <description>Speaker Homepage: https://kingspencer.github.io/.
-Abstract TBD.
-Video Coming soon. Stay tuned. :)</description>
-    </item>
-    
-    <item>
-      <title>TBD</title>
-      <link>http://theaitalks.org/talks/2022/1013/</link>
-      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://theaitalks.org/talks/2022/1013/</guid>
-      <description>Speaker Homepage: https://mitchellnw.github.io/.
-Abstract TBD.
-Video Coming soon. Stay tuned. :)</description>
-    </item>
-    
-    <item>
-      <title>TBD</title>
-      <link>http://theaitalks.org/talks/2022/1006/</link>
-      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://theaitalks.org/talks/2022/1006/</guid>
-      <description>Speaker Homepage: https://scholar.google.com/citations?user=xImarzoAAAAJ&amp;amp;hl=en.
-Abstract TBD.
-Video Coming soon. Stay tuned. :)</description>
-    </item>
-    
-    <item>
-      <title>TBD</title>
-      <link>http://theaitalks.org/talks/2022/0929/</link>
-      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://theaitalks.org/talks/2022/0929/</guid>
-      <description>Speaker Homepage: https://scholar.google.com/citations?user=KoXUMbsAAAAJ&amp;amp;hl=en.
-Abstract TBD.
-Video Coming soon. Stay tuned. :-)</description>
-    </item>
-    
-    <item>
-      <title>TBD</title>
-      <link>http://theaitalks.org/talks/2022/0922/</link>
-      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://theaitalks.org/talks/2022/0922/</guid>
-      <description>Speaker Homepage: https://sites.google.com/site/xzhai89.
-Abstract TBD.
-Video Coming soon. Stay tuned. :)</description>
-    </item>
-    
+    <lastBuildDate>Thu, 15 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using AI to Diagnose and Assess Parkinson&#39;s Disease: Challenges, Algorithms, and Applications</title>
       <link>http://theaitalks.org/talks/2022/0915/</link>
