@@ -6,7 +6,18 @@
     <description>Recent content on The AI Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Large-Scale Visual Representation Learning with Vision Transformers</title>
+      <link>http://theaitalks.org/talks/2022/0922/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2022/0922/</guid>
+      <description>Speaker Bio: Xiaohua Zhai is a staff researcher and a manager in the Google Research, Brain team, Zürich. He received his PhD degree from Peking University in 2014. His research interests include large-scale representation learning, multimodal learning, transfer learning and self-supervised learning.
+Homepage: https://sites.google.com/view/xzhai.
+Abstract Attention-based neural networks such as Vision Transformers (ViT) [1] have recently achieved state-of-the-art results on many computer vision benchmarks (e.g. the Visual Task Adaptation Benchmark [2]).</description>
+    </item>
+    
     <item>
       <title>Using AI to Diagnose and Assess Parkinson&#39;s Disease: Challenges, Algorithms, and Applications</title>
       <link>http://theaitalks.org/talks/2022/0915/</link>

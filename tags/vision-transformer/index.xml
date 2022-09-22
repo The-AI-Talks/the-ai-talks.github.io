@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xiaohua Zhai on The AI Talks</title>
-    <link>http://theaitalks.org/authors/xiaohua-zhai/</link>
-    <description>Recent content in Xiaohua Zhai on The AI Talks</description>
+    <title>vision transformer on The AI Talks</title>
+    <link>http://theaitalks.org/tags/vision-transformer/</link>
+    <description>Recent content in vision transformer on The AI Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/authors/xiaohua-zhai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/vision-transformer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Large-Scale Visual Representation Learning with Vision Transformers</title>
       <link>http://theaitalks.org/talks/2022/0922/</link>
