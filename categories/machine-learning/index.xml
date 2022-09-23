@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine learning on The AI Talks</title>
+    <link>http://theaitalks.org/categories/machine-learning/</link>
+    <description>Recent content in machine learning on The AI Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 23 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MMAI: Close the loop for Medical AI application</title>
+      <link>http://theaitalks.org/talks/2022/0923/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2022/0923/</guid>
+      <description>Speaker Bio: Associate Professor Zongyuan Ge conducts interdisciplinary research at the boundary between medical artificial intelligence, computer-aided diagnosis, biomedical engineering, medical imaging and machine learning and is a multi-award winning medical information science and technology entrepreneur. His research leverages cutting-edge AI technologies using large-scale multi-modality medical data including imaging, medical records, gene data and models the clinicians’ medical knowledge underlying tasks like diagnosis, prognosis and treatment for eye (ophthalmology), skin (dermatology), heart (cardiovascular) and neurodegeneration diseases such as epilepsy and multiple sclerosis.</description>
+    </item>
+    
+  </channel>
+</rss>
