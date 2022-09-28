@@ -5,16 +5,16 @@
     <loc>http://theaitalks.org/authors/</loc>
     <lastmod>2022-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://theaitalks.org/categories/</loc>
+    <loc>http://theaitalks.org/tags/healthcare/</loc>
     <lastmod>2022-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://theaitalks.org/categories/healthcare/</loc>
-    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/categories/machine-learning/</loc>
+    <loc>http://theaitalks.org/tags/machine-learning/</loc>
     <lastmod>2022-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/talks/2022/0923/</loc>
+    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/</loc>
     <lastmod>2022-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/talks/</loc>
@@ -35,9 +35,6 @@
     <loc>http://theaitalks.org/talks/2022/0922/</loc>
     <lastmod>2022-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://theaitalks.org/tags/</loc>
-    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://theaitalks.org/tags/transfer-learning/</loc>
     <lastmod>2022-09-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -54,12 +51,6 @@
     <lastmod>2022-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/tags/domain-generalization/</loc>
-    <lastmod>2022-09-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/tags/healthcare/</loc>
-    <lastmod>2022-09-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/tags/machine-learning/</loc>
     <lastmod>2022-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/tags/multi-task-learning/</loc>
@@ -91,6 +82,8 @@
   </url><url>
     <loc>http://theaitalks.org/people/</loc>
     <lastmod>2022-07-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/categories/</loc>
   </url><url>
     <loc>http://theaitalks.org/series/</loc>
   </url>
