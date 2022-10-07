@@ -6,7 +6,18 @@
     <description>Recent content in vision transformer on The AI Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/vision-transformer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/vision-transformer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Architectures and Training for Visual Understanding</title>
+      <link>http://theaitalks.org/talks/2022/1006/</link>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2022/1006/</guid>
+      <description>Speaker Bio: Hugo Touvron is a research scientist at Meta AI Research. During his PhD he was advised by Hervé Jégou and Matthieu Cord. His current research interests include image classification, transfer learning &amp;amp; fine-grained recognition, with an emphasis on the interplay between architectures and training procedures.
+Homepage: https://scholar.google.com/citations?user=xImarzoAAAAJ&amp;amp;hl=en
+Abstract Deep learning success is often associated with emblematic architectures. Almost everyone has heard of AlexNet, ResNet or GPT. These successes were also powered by well designed optimisation procedures, which are not usually central to the discussion.</description>
+    </item>
+    
     <item>
       <title>Large-Scale Visual Representation Learning with Vision Transformers</title>
       <link>http://theaitalks.org/talks/2022/0922/</link>
