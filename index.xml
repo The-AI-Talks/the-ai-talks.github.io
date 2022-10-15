@@ -6,7 +6,18 @@
     <description>Recent content on The AI Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Robust and accurate fine-tuning for large neural networks</title>
+      <link>http://theaitalks.org/talks/2022/1013/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2022/1013/</guid>
+      <description>Speaker Bio: Mitchell is a fourth year PhD student at the University of Washington. His research interests include large models, transfer learning, and robustness.
+Homepage: https://mitchellnw.github.io/.
+Abstract I&amp;rsquo;ll discuss methods for fine-tuning which improve model robustness and accuracy. These methods leverage the observation that fine-tuned models often appear to lie in a single low error region. To improve robustness, we therefore interpolate the weights of the pre-trained and fine-tuned models.</description>
+    </item>
+    
     <item>
       <title>Architectures and Training for Visual Understanding</title>
       <link>http://theaitalks.org/talks/2022/1006/</link>
@@ -24,12 +35,13 @@ Abstract Deep learning success is often associated with emblematic architectures
       <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>http://theaitalks.org/speakers/</guid>
-      <description>Hugo Touvron Meta
-Ting Chen Google
-Zongyuan Ge Monash University
-Xiaohua Zhai Google
+      <description>Chunyuan Li Microsoft
 Yuzhe Yang MIT
-Chunyuan Li Microsoft</description>
+Xiaohua Zhai Google
+Zongyuan Ge Monash University
+Ting Chen Google
+Hugo Touvron Meta
+Mitchell Wortsman U of Washington</description>
     </item>
     
     <item>

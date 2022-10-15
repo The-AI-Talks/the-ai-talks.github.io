@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>robustness on The AI Talks</title>
+    <link>http://theaitalks.org/tags/robustness/</link>
+    <description>Recent content in robustness on The AI Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 15 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/robustness/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Robust and accurate fine-tuning for large neural networks</title>
+      <link>http://theaitalks.org/talks/2022/1013/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2022/1013/</guid>
+      <description>Speaker Bio: Mitchell is a fourth year PhD student at the University of Washington. His research interests include large models, transfer learning, and robustness.
+Homepage: https://mitchellnw.github.io/.
+Abstract I&amp;rsquo;ll discuss methods for fine-tuning which improve model robustness and accuracy. These methods leverage the observation that fine-tuned models often appear to lie in a single low error region. To improve robustness, we therefore interpolate the weights of the pre-trained and fine-tuned models.</description>
+    </item>
+    
+  </channel>
+</rss>
