@@ -6,11 +6,11 @@
     <description>Recent content in foundation models on The AI Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/foundation-models/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/foundation-models/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Robust and accurate fine-tuning for large neural networks</title>
       <link>http://theaitalks.org/talks/2022/1013/</link>
-      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>http://theaitalks.org/talks/2022/1013/</guid>
       <description>Speaker Bio: Mitchell is a fourth year PhD student at the University of Washington. His research interests include large models, transfer learning, and robustness.
