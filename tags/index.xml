@@ -6,7 +6,25 @@
     <description>Recent content in Tags on The AI Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>continual learning</title>
+      <link>http://theaitalks.org/tags/continual-learning/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/continual-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prompting</title>
+      <link>http://theaitalks.org/tags/prompting/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/prompting/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>computer vision</title>
       <link>http://theaitalks.org/tags/computer-vision/</link>
