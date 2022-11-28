@@ -6,7 +6,43 @@
     <description>Recent content in Tags on The AI Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>binarization</title>
+      <link>http://theaitalks.org/tags/binarization/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/binarization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>efficient neural network</title>
+      <link>http://theaitalks.org/tags/efficient-neural-network/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/efficient-neural-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quantization</title>
+      <link>http://theaitalks.org/tags/quantization/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/quantization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>video recognition</title>
+      <link>http://theaitalks.org/tags/video-recognition/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/video-recognition/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>continual learning</title>
       <link>http://theaitalks.org/tags/continual-learning/</link>

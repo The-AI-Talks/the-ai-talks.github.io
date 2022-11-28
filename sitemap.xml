@@ -2,8 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://theaitalks.org/authors/adrian-bulat/</loc>
+    <lastmod>2022-11-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://theaitalks.org/authors/</loc>
-    <lastmod>2022-11-17T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/binarization/</loc>
+    <lastmod>2022-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/efficient-neural-network/</loc>
+    <lastmod>2022-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/talks/2022/1124/</loc>
+    <lastmod>2022-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/quantization/</loc>
+    <lastmod>2022-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/</loc>
+    <lastmod>2022-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/talks/</loc>
+    <lastmod>2022-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/</loc>
+    <lastmod>2022-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/video-recognition/</loc>
+    <lastmod>2022-11-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/tags/continual-learning/</loc>
     <lastmod>2022-11-17T00:00:00+00:00</lastmod>
@@ -12,15 +39,6 @@
     <lastmod>2022-11-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/talks/2022/1117/</loc>
-    <lastmod>2022-11-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/tags/</loc>
-    <lastmod>2022-11-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/talks/</loc>
-    <lastmod>2022-11-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/</loc>
     <lastmod>2022-11-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/authors/zifeng-wang/</loc>
