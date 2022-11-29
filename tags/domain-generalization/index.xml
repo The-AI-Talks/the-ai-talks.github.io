@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>domain generalization on The AI Talks</title>
+    <link>http://theaitalks.org/tags/domain-generalization/</link>
+    <description>Recent content in domain generalization on The AI Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/domain-generalization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using AI to Diagnose and Assess Parkinson&#39;s Disease: Challenges, Algorithms, and Applications</title>
+      <link>http://theaitalks.org/talks/2022/0915/</link>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2022/0915/</guid>
+      <description>Speaker Bio: Yuzhe Yang is a PhD student in computer science at MIT CSAIL. He received his B.S. degree in EECS at Peking University. His research interests include machine learning and AI for healthcare. His research focuses on fundamental machine learning algorithms for model robustness and generalization to enable real-world applications especially in health domain, as well as building innovative learning systems to enable new modalities and frameworks for digital health.</description>
+    </item>
+    
+  </channel>
+</rss>
