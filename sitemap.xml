@@ -2,10 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://theaitalks.org/authors/adrian-bulat/</loc>
-    <lastmod>2022-11-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://theaitalks.org/authors/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/generative-modeling/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/image-generation/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/image-style-transfer/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/authors/shuai-yang/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/talks/2022/1201/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/talks/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/authors/adrian-bulat/</loc>
     <lastmod>2022-11-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/tags/binarization/</loc>
@@ -18,15 +42,6 @@
     <lastmod>2022-11-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/tags/quantization/</loc>
-    <lastmod>2022-11-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/tags/</loc>
-    <lastmod>2022-11-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/talks/</loc>
-    <lastmod>2022-11-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/</loc>
     <lastmod>2022-11-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/tags/video-recognition/</loc>
@@ -83,13 +98,7 @@
     <loc>http://theaitalks.org/tags/diffusion-models/</loc>
     <lastmod>2022-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://theaitalks.org/tags/generative-modeling/</loc>
-    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://theaitalks.org/tags/image-captioning/</loc>
-    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/tags/image-generation/</loc>
     <lastmod>2022-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/authors/ting-chen/</loc>
