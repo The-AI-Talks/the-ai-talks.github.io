@@ -3,7 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://theaitalks.org/authors/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/benchmarks/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/domain-generalization/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/talks/2022/1207/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/machine-learning/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/robustness/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/authors/shiori-sagawa/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/talks/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/tags/generative-modeling/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
@@ -18,15 +45,6 @@
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/talks/2022/1201/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/tags/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/talks/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/authors/adrian-bulat/</loc>
@@ -71,9 +89,6 @@
     <loc>http://theaitalks.org/authors/mitchell-wortsman/</loc>
     <lastmod>2022-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://theaitalks.org/tags/robustness/</loc>
-    <lastmod>2022-10-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://theaitalks.org/tags/transfer-learning/</loc>
     <lastmod>2022-10-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -107,9 +122,6 @@
     <loc>http://theaitalks.org/tags/healthcare/</loc>
     <lastmod>2022-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://theaitalks.org/tags/machine-learning/</loc>
-    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://theaitalks.org/talks/2022/0923/</loc>
     <lastmod>2022-09-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -128,9 +140,6 @@
     <loc>http://theaitalks.org/tags/data-imbalance/</loc>
     <lastmod>2022-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://theaitalks.org/tags/domain-generalization/</loc>
-    <lastmod>2022-09-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://theaitalks.org/tags/multi-task-learning/</loc>
     <lastmod>2022-09-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -141,9 +150,6 @@
     <lastmod>2022-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/talks/2022/0908/</loc>
-    <lastmod>2022-09-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/tags/benchmarks/</loc>
     <lastmod>2022-09-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/authors/chunyuan-li/</loc>
