@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rinon Gal on The AI Talks</title>
+    <link>http://theaitalks.org/authors/rinon-gal/</link>
+    <description>Recent content in Rinon Gal on The AI Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 09 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/authors/rinon-gal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personalizing Text-to-image Generation</title>
+      <link>http://theaitalks.org/talks/2023/0209/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2023/0209/</guid>
+      <description>Speaker Rinon Gal is a Ph.D. student at Tel Aviv University where he is supervised by Prof. Daniel Cohen-Or and Dr. Amit Bermano. His research focuses on generative models, few-shot and unsupervised approaches, and on combining vision and language. Recently, Rinon has been interning at NVIDIA Research, where he is working on personalization of vision and language models.
+Homepage: https://rinongal.github.io
+Abstract Text-to-image models offer unprecedented freedom to guide creation through natural language.</description>
+    </item>
+    
+  </channel>
+</rss>

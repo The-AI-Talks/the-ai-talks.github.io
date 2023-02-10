@@ -3,7 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://theaitalks.org/authors/</loc>
-    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/concept-personalization/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/image-generation/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/latent-diffusion-model/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/talks/2023/0209/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/authors/rinon-gal/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/stable-diffusion/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/talks/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/text-to-image/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/tags/benchmarks/</loc>
     <lastmod>2022-12-07T00:00:00+00:00</lastmod>
@@ -23,19 +53,7 @@
     <loc>http://theaitalks.org/authors/shiori-sagawa/</loc>
     <lastmod>2022-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://theaitalks.org/tags/</loc>
-    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/talks/</loc>
-    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/</loc>
-    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://theaitalks.org/tags/generative-modeling/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/tags/image-generation/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/tags/image-style-transfer/</loc>
