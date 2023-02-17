@@ -6,7 +6,16 @@
     <description>Recent content in Talks on The AI Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/talks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge</title>
+      <link>http://theaitalks.org/talks/2023/0216/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2023/0216/</guid>
+      <description>Speaker Linxi &amp;ldquo;Jim&amp;rdquo; Fan is a research scientist at NVIDIA AI. His mission is to build embodied general intelligence. To tackle this grand challenge, his research efforts span foundation models, policy learning, robotics, multimodal learning, and large-scale systems. His latest work &amp;ldquo;MineDojo&amp;rdquo; won the Outstanding Paper Award at NeurIPS 2022. He obtained his Ph.D. degree in Computer Science from Stanford University, advised by Prof. Fei-Fei Li. Previously, Jim did research internships at OpenAI, Google AI, and MILA-Quebec AI Institute.</description>
+    </item>
+    
     <item>
       <title>Personalizing Text-to-image Generation</title>
       <link>http://theaitalks.org/talks/2023/0209/</link>
