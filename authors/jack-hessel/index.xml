@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jack Hessel on The AI Talks</title>
+    <link>http://theaitalks.org/authors/jack-hessel/</link>
+    <description>Recent content in Jack Hessel on The AI Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 23 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/authors/jack-hessel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TBD</title>
+      <link>http://theaitalks.org/talks/2023/0323/</link>
+      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2023/0323/</guid>
+      <description>Speaker Jack Hessel is a Research Scientist at the Allen Institute for AI. He previously earned a PhD from Cornell. These days, he works on improving human-AI collaboration. This includes aligning model behavior with human intent (RLHF), and expanding language models with new modalities (e.g., vision) for a more complete view of the world.
+Abstract Algorithms that can jointly process modalities like images+text are needed for next generation search, accessibility, and robot interaction tools.</description>
+    </item>
+    
+  </channel>
+</rss>

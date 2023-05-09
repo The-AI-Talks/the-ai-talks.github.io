@@ -6,7 +6,17 @@
     <description>Recent content on The AI Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TBD</title>
+      <link>http://theaitalks.org/talks/2023/0323/</link>
+      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2023/0323/</guid>
+      <description>Speaker Jack Hessel is a Research Scientist at the Allen Institute for AI. He previously earned a PhD from Cornell. These days, he works on improving human-AI collaboration. This includes aligning model behavior with human intent (RLHF), and expanding language models with new modalities (e.g., vision) for a more complete view of the world.
+Abstract Algorithms that can jointly process modalities like images+text are needed for next generation search, accessibility, and robot interaction tools.</description>
+    </item>
+    
     <item>
       <title>On the Gauge Transformation of Neural Fields</title>
       <link>http://theaitalks.org/talks/2023/0316/</link>
@@ -139,7 +149,8 @@ Rinon Gal Tel-Aviv University
 Jim Fan NVIDIA AI
 Xuefeng Du University of Wisconsin
 Ilya Chugunov Princeton
-Fangneng Zhan MPI</description>
+Fangneng Zhan MPI
+Jack Hessel Allen Institute for AI</description>
     </item>
     
     <item>
