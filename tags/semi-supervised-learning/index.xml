@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>semi-supervised learning on The AI Talks</title>
+    <link>http://theaitalks.org/tags/semi-supervised-learning/</link>
+    <description>Recent content in semi-supervised learning on The AI Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/semi-supervised-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advancing Semi-Supervised Learning: Methods and Benchmarks</title>
+      <link>http://theaitalks.org/talks/2023/0413/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2023/0413/</guid>
+      <description>Speaker Bio: Yidong Wang is a doctoral student at the National Engineering Research Center for Software Engineering of Peking University, advised by Prof. Wei Ye and Prof. Shikun Zhang. He received his master&amp;rsquo;s degree in the Department of Information and Communications Engineering of Tokyo Institute of Technology and his bachelor&amp;rsquo;s degree in the Department of Computer Science and Technology of Nanjing University. His research interests primarily focus on semi-supervised learning, transfer learning, and imbalanced learning.</description>
+    </item>
+    
+  </channel>
+</rss>
