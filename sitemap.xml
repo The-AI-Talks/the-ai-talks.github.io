@@ -2,22 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://theaitalks.org/authors/</loc>
+    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/foundation-model/</loc>
+    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/authors/junnan-li/</loc>
+    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/multi-modal-learning/</loc>
+    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/</loc>
+    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/talks/</loc>
+    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/</loc>
+    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/vision-language/</loc>
+    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/talks/2023/0428/</loc>
+    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://theaitalks.org/talks/2023/0413/</loc>
     <lastmod>2023-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://theaitalks.org/authors/</loc>
-    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://theaitalks.org/tags/semi-supervised-learning/</loc>
-    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/tags/</loc>
-    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/talks/</loc>
-    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/</loc>
     <lastmod>2023-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/authors/yidong-wang/</loc>
@@ -204,9 +219,6 @@
     <lastmod>2022-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/talks/2022/0922/</loc>
-    <lastmod>2022-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/tags/vision-language/</loc>
     <lastmod>2022-09-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/authors/xiaohua-zhai/</loc>

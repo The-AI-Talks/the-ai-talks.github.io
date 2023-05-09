@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>multi-modal learning on The AI Talks</title>
+    <link>http://theaitalks.org/tags/multi-modal-learning/</link>
+    <description>Recent content in multi-modal learning on The AI Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 28 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/multi-modal-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vision-and-Language Alignment - Towards Universal Multimodal AI</title>
+      <link>http://theaitalks.org/talks/2023/0428/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2023/0428/</guid>
+      <description>Speaker Junnan Li is currently a senior research manager at Salesforce Research. Before that, he obtained his PhD at the National University of Singapore. His main research focus is in building generative AI models that can understand and generate data in multiple modalities including vision, language, and code. In particular, he is interested in the efficient pre-training of multimodal models. He believes in the value of open-source research. Show less</description>
+    </item>
+    
+  </channel>
+</rss>
