@@ -6,16 +6,7 @@
     <description>Recent content on The AI Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Adaptive and Trustworthy NLP with Retrieval for Information Access for Everyone</title>
-      <link>http://theaitalks.org/talks/2023/0302/</link>
-      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://theaitalks.org/talks/2023/0302/</guid>
-      <description>Speaker Akari Asai is a Ph.D. student in the Paul G. Allen School of Computer Science &amp;amp; Engineering at the University of Washington, advised by Prof. Hannaneh Hajishirzi. Her research lies in natural language processing and machine learning. Her recent research focuses on question answering / IR, multilingual NLP, retrieval-augmented LMs, and efficiency. She received the IBM Fellowship in 2022 and the Nakajima Foundation Fellowship in 2019 and is selected as a 2022 EECS Rising Star.</description>
-    </item>
-    
+    <lastBuildDate>Fri, 28 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vision-and-Language Alignment - Towards Universal Multimodal AI</title>
       <link>http://theaitalks.org/talks/2023/0428/</link>
@@ -71,6 +62,15 @@ Abstract Algorithms that can jointly process modalities like images+text are nee
       <guid>http://theaitalks.org/talks/2023/0314/</guid>
       <description>Speaker Ilya is a third year PhD Student in the Princeton University Computational Imaging Lab, advised by Professor Felix Heide, and is an NSF graduate research fellow. His work is at the intersection of computational photography, depth estimation, and designed optics research, modelling the image acquisition pipeline from signal collection to scene reconstruction.
 Abstract Modern smartphones can continuously stream 12-megapixel 14-bit RAW images, LiDAR-driven low-resolution depth maps, accelerometer, and gyroscope measurements, estimated lens focal lengths, and a wide array of other camera metadata.</description>
+    </item>
+    
+    <item>
+      <title>Adaptive and Trustworthy NLP with Retrieval for Information Access for Everyone</title>
+      <link>http://theaitalks.org/talks/2023/0302/</link>
+      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2023/0302/</guid>
+      <description>Speaker Akari Asai is a Ph.D. student in the Paul G. Allen School of Computer Science &amp;amp; Engineering at the University of Washington, advised by Prof. Hannaneh Hajishirzi. Her research lies in natural language processing and machine learning. Her recent research focuses on question answering / IR, multilingual NLP, retrieval-augmented LMs, and efficiency. She received the IBM Fellowship in 2022 and the Nakajima Foundation Fellowship in 2019 and is selected as a 2022 EECS Rising Star.</description>
     </item>
     
     <item>

@@ -6,25 +6,7 @@
     <description>Recent content in Tags on The AI Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>large language models</title>
-      <link>http://theaitalks.org/tags/large-language-models/</link>
-      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://theaitalks.org/tags/large-language-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NLP</title>
-      <link>http://theaitalks.org/tags/nlp/</link>
-      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://theaitalks.org/tags/nlp/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 28 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>foundation model</title>
       <link>http://theaitalks.org/tags/foundation-model/</link>
@@ -148,6 +130,24 @@
       <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>http://theaitalks.org/tags/depth-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>large language models</title>
+      <link>http://theaitalks.org/tags/large-language-models/</link>
+      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/large-language-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>http://theaitalks.org/tags/nlp/</link>
+      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/nlp/</guid>
       <description></description>
     </item>
     
