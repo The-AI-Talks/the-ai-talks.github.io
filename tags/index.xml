@@ -6,7 +6,25 @@
     <description>Recent content in Tags on The AI Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>large language models</title>
+      <link>http://theaitalks.org/tags/large-language-models/</link>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/large-language-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>http://theaitalks.org/tags/nlp/</link>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>foundation model</title>
       <link>http://theaitalks.org/tags/foundation-model/</link>
@@ -40,6 +58,60 @@
       <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>http://theaitalks.org/tags/semi-supervised-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>concept personalization</title>
+      <link>http://theaitalks.org/tags/concept-personalization/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/concept-personalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diffusion models</title>
+      <link>http://theaitalks.org/tags/diffusion-models/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/diffusion-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image generation</title>
+      <link>http://theaitalks.org/tags/image-generation/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/image-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>latent diffusion model</title>
+      <link>http://theaitalks.org/tags/latent-diffusion-model/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/latent-diffusion-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stable diffusion</title>
+      <link>http://theaitalks.org/tags/stable-diffusion/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/stable-diffusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text-to-image</title>
+      <link>http://theaitalks.org/tags/text-to-image/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/text-to-image/</guid>
       <description></description>
     </item>
     
@@ -94,60 +166,6 @@
       <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>http://theaitalks.org/tags/embodied-ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>concept personalization</title>
-      <link>http://theaitalks.org/tags/concept-personalization/</link>
-      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://theaitalks.org/tags/concept-personalization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>diffusion models</title>
-      <link>http://theaitalks.org/tags/diffusion-models/</link>
-      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://theaitalks.org/tags/diffusion-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>image generation</title>
-      <link>http://theaitalks.org/tags/image-generation/</link>
-      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://theaitalks.org/tags/image-generation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>latent diffusion model</title>
-      <link>http://theaitalks.org/tags/latent-diffusion-model/</link>
-      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://theaitalks.org/tags/latent-diffusion-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>stable diffusion</title>
-      <link>http://theaitalks.org/tags/stable-diffusion/</link>
-      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://theaitalks.org/tags/stable-diffusion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>text-to-image</title>
-      <link>http://theaitalks.org/tags/text-to-image/</link>
-      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://theaitalks.org/tags/text-to-image/</guid>
       <description></description>
     </item>
     

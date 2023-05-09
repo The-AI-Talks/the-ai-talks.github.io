@@ -2,8 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://theaitalks.org/talks/2023/0302/</loc>
+    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/authors/akari-asai/</loc>
+    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://theaitalks.org/authors/</loc>
-    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/large-language-models/</loc>
+    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/nlp/</loc>
+    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/</loc>
+    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/talks/</loc>
+    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/</loc>
+    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/tags/foundation-model/</loc>
     <lastmod>2023-04-28T00:00:00+00:00</lastmod>
@@ -12,15 +33,6 @@
     <lastmod>2023-04-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/tags/multi-modal-learning/</loc>
-    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/tags/</loc>
-    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/talks/</loc>
-    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/</loc>
     <lastmod>2023-04-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/tags/vision-language/</loc>
@@ -37,6 +49,30 @@
   </url><url>
     <loc>http://theaitalks.org/authors/yidong-wang/</loc>
     <lastmod>2023-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/concept-personalization/</loc>
+    <lastmod>2023-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/talks/2023/0406/</loc>
+    <lastmod>2023-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/diffusion-models/</loc>
+    <lastmod>2023-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/image-generation/</loc>
+    <lastmod>2023-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/latent-diffusion-model/</loc>
+    <lastmod>2023-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/authors/nupur-kumari/</loc>
+    <lastmod>2023-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/stable-diffusion/</loc>
+    <lastmod>2023-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/text-to-image/</loc>
+    <lastmod>2023-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/authors/jack-hessel/</loc>
     <lastmod>2023-03-23T00:00:00+00:00</lastmod>
@@ -86,28 +122,10 @@
     <loc>http://theaitalks.org/talks/2023/0216/</loc>
     <lastmod>2023-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://theaitalks.org/tags/concept-personalization/</loc>
-    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/tags/diffusion-models/</loc>
-    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/tags/image-generation/</loc>
-    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/tags/latent-diffusion-model/</loc>
-    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://theaitalks.org/talks/2023/0209/</loc>
     <lastmod>2023-02-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/authors/rinon-gal/</loc>
-    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/tags/stable-diffusion/</loc>
-    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/tags/text-to-image/</loc>
     <lastmod>2023-02-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/tags/benchmarks/</loc>

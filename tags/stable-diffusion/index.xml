@@ -6,7 +6,17 @@
     <description>Recent content in stable diffusion on The AI Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/stable-diffusion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/stable-diffusion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Customizing Large-Scale Generative Models</title>
+      <link>http://theaitalks.org/talks/2023/0406/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2023/0406/</guid>
+      <description>Speaker Nupur Kumari is a Ph.D. student at Carnegie Mellon University, advised by Jun-Yan Zhu. Her research is in generative models, specifically efficient fine-tuning and transfer learning techniques to improve generative models.
+Abstract Advancements in large-scale generative models represent a watershed moment. These models can generate a wide variety of objects, styles, and scenes and their compositions. However, as end users, we often wish to synthesize specific concepts from our own personal lives.</description>
+    </item>
+    
     <item>
       <title>Personalizing Text-to-image Generation</title>
       <link>http://theaitalks.org/talks/2023/0209/</link>
