@@ -6,7 +6,16 @@
     <description>Recent content in Talks on The AI Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/talks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On the Gauge Transformation of Neural Fields</title>
+      <link>http://theaitalks.org/talks/2023/0316/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2023/0316/</guid>
+      <description>Speaker Fangneng Zhan is a postdoctoral researcher at Max Planck Institute for Informatics with Prof. Christian Theobalt. He received his Ph.D. degree of Computer Science &amp;amp; Engineering from Nanyang Technological University, Singapore in 2021. His research interests are Neural Rendering and Generative Models (e.g., NeRF, 3D GAN, Diffusion Models). Aligning with the dictum of “What I cannot create, I do not understand” by Richard Feynman, his research goals are (1) Developing algorithms to synthesize and reconstruct the visual world and (2) Exploring how visual analysis can benefit from the advance of visual synthesis.</description>
+    </item>
+    
     <item>
       <title>Depth Estimation from Unstabilized Mobile Photography</title>
       <link>http://theaitalks.org/talks/2023/0314/</link>
