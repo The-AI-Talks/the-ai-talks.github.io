@@ -6,11 +6,21 @@
     <description>Recent content on The AI Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Depth Estimation from Unstabilized Mobile Photography</title>
+      <link>http://theaitalks.org/talks/2023/0314/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2023/0314/</guid>
+      <description>Speaker Ilya is a third year PhD Student in the Princeton University Computational Imaging Lab, advised by Professor Felix Heide, and is an NSF graduate research fellow. His work is at the intersection of computational photography, depth estimation, and designed optics research, modelling the image acquisition pipeline from signal collection to scene reconstruction.
+Abstract Modern smartphones can continuously stream 12-megapixel 14-bit RAW images, LiDAR-driven low-resolution depth maps, accelerometer, and gyroscope measurements, estimated lens focal lengths, and a wide array of other camera metadata.</description>
+    </item>
+    
     <item>
       <title>Unknown-Aware Learning for Object Detection and Beyond</title>
       <link>http://theaitalks.org/talks/2023/0223/</link>
-      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>http://theaitalks.org/talks/2023/0223/</guid>
       <description>Speaker Xuefeng Du is a CS Ph.D. student at UW-Madison. His research focus is trustworthy machine learning, such as adversarial robustness, learning problem with label noise, out-of-distribution detection. He is also interested in neural architecture search, graph mining and high-level recognition models, such as object detection and segmentation.
@@ -118,7 +128,8 @@ Shuai Yang NTU Singapore
 Shiori Sagawa Stanford
 Rinon Gal Tel-Aviv University
 Jim Fan NVIDIA AI
-Xuefeng Du University of Wisconsin</description>
+Xuefeng Du University of Wisconsin
+Ilya Chugunov Princeton</description>
     </item>
     
     <item>
