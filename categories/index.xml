@@ -5,6 +5,25 @@
     <link>http://theaitalks.org/categories/</link>
     <description>Recent content in Categories on The AI Talks</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://theaitalks.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 08 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>language models</title>
+      <link>http://theaitalks.org/categories/language-models/</link>
+      <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/categories/language-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI Safety</title>
+      <link>http://theaitalks.org/categories/ai-safety/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/categories/ai-safety/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

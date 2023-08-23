@@ -6,7 +6,27 @@
     <description>Recent content on The AI Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning from Language Models for Visual Intelligence</title>
+      <link>http://theaitalks.org/talks/2023/0608/</link>
+      <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2023/0608/</guid>
+      <description>Speaker Boyi Li is a Research Scientist at NVIDIA Research and a Postdoctoral Scholar at Berkeley AI Research. Her research interest is in computer vision and machine learning. Her research primarily focuses on multimodal and data-efficient machine learning for building various intelligent systems.
+Homepage: https://sites.google.com/site/boyilics/home
+Abstract The computer vision community has embraced specialized models trained on fixed object categories like ImageNet or COCO. However, relying solely on visual knowledge may limit flexibility and generality, requiring additional labeled data and hindering user interaction.</description>
+    </item>
+    
+    <item>
+      <title>Unsolved ML Safety Problems</title>
+      <link>http://theaitalks.org/talks/2023/0525/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2023/0525/</guid>
+      <description>Speaker Dan Hendrycks is the director of the Center for AI Safety. He received his PhD from UC Berkeley, where he was advised by Jacob Steinhardt and Dawn Song. His research is supported by the NSF GRFP and the Open Philanthropy AI Fellowship. Dan contributed the GELU activation function, the default activation in nearly all state-of-the-art ML models including BERT, Vision Transformers, and GPT-3. Dan also contributed the main baseline for OOD detection and benchmarks for robustness (ImageNet-C) and large language models (MMLU, MATH).</description>
+    </item>
+    
     <item>
       <title>3D Generation from Unstructured Single-view Data</title>
       <link>http://theaitalks.org/talks/2023/0511/</link>
