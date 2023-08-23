@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yinghao Xu on The AI Talks</title>
+    <link>http://theaitalks.org/authors/yinghao-xu/</link>
+    <description>Recent content in Yinghao Xu on The AI Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 11 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/authors/yinghao-xu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D Generation from Unstructured Single-view Data</title>
+      <link>http://theaitalks.org/talks/2023/0511/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2023/0511/</guid>
+      <description>Speaker Yinghao Xu is a final-year Ph.D. student at Multimedia Lab (MMLab), Department of Information Engineering in The Chinese University of Hong Kong. His supervisor is Prof. Dahua Lin and Prof. Bolei Zhou. He is very interested in generative models and neural rendering, particularly in 3D generative models. During his Ph.D., he is fortunate to visit Stanford computational group, working with Prof. Gordon Wetzstein. Many of his papers have been awarded as oral representation and best paper candidate at CVPR, ECCV, NeurIPS and ICLR.</description>
+    </item>
+    
+  </channel>
+</rss>

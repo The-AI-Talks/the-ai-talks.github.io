@@ -2,8 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://theaitalks.org/tags/3d-generation/</loc>
+    <lastmod>2023-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/talks/2023/0511/</loc>
+    <lastmod>2023-05-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://theaitalks.org/authors/</loc>
-    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/</loc>
+    <lastmod>2023-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/talks/</loc>
+    <lastmod>2023-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/</loc>
+    <lastmod>2023-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/authors/yinghao-xu/</loc>
+    <lastmod>2023-05-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/tags/foundation-model/</loc>
     <lastmod>2023-04-28T00:00:00+00:00</lastmod>
@@ -12,15 +30,6 @@
     <lastmod>2023-04-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/tags/multi-modal-learning/</loc>
-    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/tags/</loc>
-    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/talks/</loc>
-    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/</loc>
     <lastmod>2023-04-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/tags/vision-language/</loc>
