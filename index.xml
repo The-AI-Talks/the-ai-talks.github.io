@@ -210,7 +210,24 @@ Abstract Deep learning success is often associated with emblematic architectures
       <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>http://theaitalks.org/speakers/</guid>
-      <description> Chunyuan Li Yuzhe Yang Xiaohua Zhai Zongyuan Ge Ting Chen Hugo Touvron Mitchell Wortsman Zifeng Wang Adrian Bulat Shuai Yang Shiori Sagawa Rinon Gal Jim Fan Xuefeng Du Akari Asai Ilya Chugunov Fangneng Zhan Jack Hessel Nupur Kumari Yidong Wang Junnan Li Yinghao Xu Dan Hendrycks Boyi Li Sheng Shen </description>
+      <description>Chunyuan Li Microsoft
+Yuzhe Yang MIT
+Xiaohua Zhai Google
+Zongyuan Ge Monash University
+Ting Chen Google
+Hugo Touvron Meta
+Mitchell Wortsman University of Washington
+Zifeng Wang Northeastern University
+Adrian Bulat Samsung AI Cambridge
+Shuai Yang NTU Singapore
+Shiori Sagawa Stanford
+Rinon Gal Tel-Aviv University
+Jim Fan NVIDIA AI
+Xuefeng Du University of Wisconsin
+Akari Asai University of Washington
+Ilya Chugunov Princeton
+Fangneng Zhan MPI
+Jack Hessel Allen Institute for AI</description>
     </item>
     
     <item>
@@ -295,15 +312,7 @@ Abstract Attention-based neural networks such as Vision Transformers (ViT) [1] h
       <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>http://theaitalks.org/organizers/</guid>
-      <description>Jingkang Yang NTU, Singapore
-Ziqi Huang NTU, Singapore
-Yuanhan Zhang NTU, Singapore
-Bo Li NTU, Singapore
-Qinghong Lin NUS, Singapore
-Advisory Committee Kaiyang Zhou NTU, Singapore
-Zheng Shou NUS, Singapore
-Ziwei Liu NTU, Singapore
-Chen Change Loy NTU, Singapore</description>
+      <description> Jingkang Yang Ziqi Huang Yuanhan Zhang Bo Li Qinghong Lin Advisory Committee Kaiyang Zhou Zheng Shou Ziwei Liu Chen Change Loy </description>
     </item>
     
   </channel>
