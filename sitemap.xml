@@ -3,7 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://theaitalks.org/authors/</loc>
-    <lastmod>2023-06-08T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/instruction-tuning/</loc>
+    <lastmod>2023-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/large-language-models/</loc>
+    <lastmod>2023-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/mixture-of-experts/</loc>
+    <lastmod>2023-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/talks/2023/0831/</loc>
+    <lastmod>2023-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/authors/sheng-shen/</loc>
+    <lastmod>2023-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/</loc>
+    <lastmod>2023-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/talks/</loc>
+    <lastmod>2023-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/</loc>
+    <lastmod>2023-08-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/authors/boyi-li/</loc>
     <lastmod>2023-06-08T00:00:00+00:00</lastmod>
@@ -15,12 +39,6 @@
     <lastmod>2023-06-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/talks/2023/0608/</loc>
-    <lastmod>2023-06-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/talks/</loc>
-    <lastmod>2023-06-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/</loc>
     <lastmod>2023-06-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/categories/ai-safety/</loc>
@@ -36,9 +54,6 @@
     <lastmod>2023-05-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/talks/2023/0511/</loc>
-    <lastmod>2023-05-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/tags/</loc>
     <lastmod>2023-05-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/authors/yinghao-xu/</loc>
@@ -126,9 +141,6 @@
     <lastmod>2023-03-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/authors/akari-asai/</loc>
-    <lastmod>2023-03-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/tags/large-language-models/</loc>
     <lastmod>2023-03-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/tags/nlp/</loc>

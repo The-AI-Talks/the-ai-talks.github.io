@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sheng Shen on The AI Talks</title>
+    <link>http://theaitalks.org/authors/sheng-shen/</link>
+    <description>Recent content in Sheng Shen on The AI Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 31 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/authors/sheng-shen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mixture-of-Experts Meets Instruction Tuning: A Winning Combination for Large Language Models</title>
+      <link>http://theaitalks.org/talks/2023/0831/</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2023/0831/</guid>
+      <description>Speaker Sheng Shen is a fourth-year Ph.D. student at UC Berkeley, advised by Prof. Kurt Keutzer and Prof. Trevor Darrell. His research interests focus on compute-optimal (multimodal) language modeling, including efficient training/tuning methods, model compression techniques, and the integration of vision-language models. He received the Lotfi A. Zadeh Prize in 2023. Prior to UCB, he obtained a B.S. degree in Electrical Engineering and Computer Science from Peking University.
+Sheng&amp;rsquo;s homepage: https://sincerass.</description>
+    </item>
+    
+  </channel>
+</rss>

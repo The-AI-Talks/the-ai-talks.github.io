@@ -6,7 +6,34 @@
     <description>Recent content in Tags on The AI Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>instruction tuning</title>
+      <link>http://theaitalks.org/tags/instruction-tuning/</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/instruction-tuning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>large language models</title>
+      <link>http://theaitalks.org/tags/large-language-models/</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/large-language-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mixture-of-experts</title>
+      <link>http://theaitalks.org/tags/mixture-of-experts/</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/mixture-of-experts/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>3D generation</title>
       <link>http://theaitalks.org/tags/3d-generation/</link>
@@ -139,15 +166,6 @@
       <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>http://theaitalks.org/tags/depth-estimation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>large language models</title>
-      <link>http://theaitalks.org/tags/large-language-models/</link>
-      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://theaitalks.org/tags/large-language-models/</guid>
       <description></description>
     </item>
     
