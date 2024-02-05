@@ -6,15 +6,24 @@
     <description>Recent content on The AI Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Long video understanding with minimal supervision</title>
+      <link>http://theaitalks.org/talks/2023/1221/</link>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2023/1221/</guid>
+      <description>Speaker Tengda Han is a post-doctoral research fellow at the Visual Geometry Group at the University of Oxford. He obtained his PhD from the same group in 2022 supervised by Andrew Zisserman. His current research focuses on self-supervised learning, efficient learning, and video understanding.
+Abstract Understanding long videos is one of the pinnacles in computer vision. The long-time axis introduces extra challenges compared with images or short videos, and exhaustive manual annotation on long videos is infeasible.</description>
+    </item>
+    
+    <item>
+      <title>3D Human Modelling from Image and Text Guidance</title>
       <link>http://theaitalks.org/talks/2023/1207/</link>
       <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
       
       <guid>http://theaitalks.org/talks/2023/1207/</guid>
-      <description>Speaker Tengda Han is a post-doctoral research fellow at the Visual Geometry Group at the University of Oxford. He obtained his PhD from the same group in 2022 supervised by Andrew Zisserman. His current research focuses on self-supervised learning, efficient learning, and video understanding.
-Abstract Understanding long videos is one of the pinnacles in computer vision. The long-time axis introduces extra challenges compared with images or short videos, and exhaustive manual annotation on long videos is infeasible.</description>
+      <description>Speaker Yukang Cao is a final-year Ph.D. student at The University of Hong Kong with HKU-PS scholarship. He is under the supervision of Dr. Kenneth Wong and works closely with Dr. Kai Han. Throughout his academic journey, he has gained valuable experiences at UT-Austin, PKU, THU, and Tencent. His research interests lie in 3D modelling of the virtual world, with a particular focus on 3D human reconstruction and the generation of 3D avatars.</description>
     </item>
     
     <item>

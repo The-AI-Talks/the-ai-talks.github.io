@@ -9,19 +9,22 @@
 
 
 <meta name="author" content="The AI Talks">
-<meta name="description" content="Speaker Yukang Cao is a final-year Ph.D. student at The University of Hong Kong with HKU-PS scholarship. He is under the supervision of Dr. Kenneth Wong and works closely with Dr. Kai Han. Throughout his academic journey, he has gained valuable experiences at UT-Austin, PKU, THU, and Tencent. His research interests lie in 3D modelling of the virtual world, with a particular focus on 3D human reconstruction and the generation of 3D avatars.">
+<meta name="description" content="Speaker Tengda Han is a post-doctoral research fellow at the Visual Geometry Group at the University of Oxford. He obtained his PhD from the same group in 2022 supervised by Andrew Zisserman. His current research focuses on self-supervised learning, efficient learning, and video understanding.
+Abstract Understanding long videos is one of the pinnacles in computer vision. The long-time axis introduces extra challenges compared with images or short videos, and exhaustive manual annotation on long videos is infeasible.">
 <meta name="keywords" content="The AI Talks, AI, Machine Learning, Computer Science">
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="3D Human Modelling from Image and Text Guidance"/>
-<meta name="twitter:description" content="Speaker Yukang Cao is a final-year Ph.D. student at The University of Hong Kong with HKU-PS scholarship. He is under the supervision of Dr. Kenneth Wong and works closely with Dr. Kai Han. Throughout his academic journey, he has gained valuable experiences at UT-Austin, PKU, THU, and Tencent. His research interests lie in 3D modelling of the virtual world, with a particular focus on 3D human reconstruction and the generation of 3D avatars."/>
+<meta name="twitter:title" content="Long video understanding with minimal supervision"/>
+<meta name="twitter:description" content="Speaker Tengda Han is a post-doctoral research fellow at the Visual Geometry Group at the University of Oxford. He obtained his PhD from the same group in 2022 supervised by Andrew Zisserman. His current research focuses on self-supervised learning, efficient learning, and video understanding.
+Abstract Understanding long videos is one of the pinnacles in computer vision. The long-time axis introduces extra challenges compared with images or short videos, and exhaustive manual annotation on long videos is infeasible."/>
 
-<meta property="og:title" content="3D Human Modelling from Image and Text Guidance" />
-<meta property="og:description" content="Speaker Yukang Cao is a final-year Ph.D. student at The University of Hong Kong with HKU-PS scholarship. He is under the supervision of Dr. Kenneth Wong and works closely with Dr. Kai Han. Throughout his academic journey, he has gained valuable experiences at UT-Austin, PKU, THU, and Tencent. His research interests lie in 3D modelling of the virtual world, with a particular focus on 3D human reconstruction and the generation of 3D avatars." />
+<meta property="og:title" content="Long video understanding with minimal supervision" />
+<meta property="og:description" content="Speaker Tengda Han is a post-doctoral research fellow at the Visual Geometry Group at the University of Oxford. He obtained his PhD from the same group in 2022 supervised by Andrew Zisserman. His current research focuses on self-supervised learning, efficient learning, and video understanding.
+Abstract Understanding long videos is one of the pinnacles in computer vision. The long-time axis introduces extra challenges compared with images or short videos, and exhaustive manual annotation on long videos is infeasible." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://theaitalks.org/talks/2023/1207/" /><meta property="article:section" content="talks" />
-<meta property="article:published_time" content="2023-12-07T00:00:00+00:00" />
-<meta property="article:modified_time" content="2023-12-07T00:00:00+00:00" />
+<meta property="og:url" content="http://theaitalks.org/talks/2023/1221/" /><meta property="article:section" content="talks" />
+<meta property="article:published_time" content="2023-12-21T00:00:00+00:00" />
+<meta property="article:modified_time" content="2023-12-21T00:00:00+00:00" />
 
 
 
@@ -29,7 +32,7 @@
   <title>The AI Talks</title>
 
   
-  <link rel="canonical" href="http://theaitalks.org/talks/2023/1207/">
+  <link rel="canonical" href="http://theaitalks.org/talks/2023/1221/">
   
 
   <link rel="preload" href="/fonts/forkawesome-webfont.woff2?v=1.2.0" as="font" type="font/woff2" crossorigin>
@@ -145,8 +148,8 @@
       <header>
         <div class="post-title">
           <h1 class="title">
-            <a class="title-link" href="http://theaitalks.org/talks/2023/1207/">
-              3D Human Modelling from Image and Text Guidance
+            <a class="title-link" href="http://theaitalks.org/talks/2023/1221/">
+              Long video understanding with minimal supervision
             </a>
           </h1>
         </div>
@@ -154,14 +157,14 @@
           <div class="date">
             <span class="posted-on">
               <i class="fa fa-calendar" aria-hidden="true"></i>
-              <time datetime="2023-12-07T00:00:00Z">
-                07-12-2023
+              <time datetime="2023-12-21T00:00:00Z">
+                21-12-2023
               </time>
             </span>
           </div>
           <div class="authors">
   <i class="fa fa-user" aria-hidden="true"></i>
-    <a href="/authors/yukang-cao/">Yukang Cao</a></div>
+    <a href="/authors/tengda-han/">Tengda Han</a></div>
 
           
           
@@ -176,21 +179,22 @@
     <i class="fa fa-link" aria-hidden="true"></i>
   </a>
 </h1>
-<p>Yukang Cao is a final-year Ph.D. student at The University of Hong Kong with HKU-PS scholarship. He is under the supervision of Dr. Kenneth Wong and works closely with Dr. Kai Han. Throughout his academic journey, he has gained valuable experiences at UT-Austin, PKU, THU, and Tencent. His research interests lie in 3D modelling of the virtual world, with a particular focus on 3D human reconstruction and the generation of 3D avatars. More details can be found in <a href="https://yukangcao.github.io/">https://yukangcao.github.io/</a>.</p>
+<p>Tengda Han is a post-doctoral research fellow at the Visual Geometry Group at the University of Oxford. He obtained his PhD from the same group in 2022 supervised by Andrew Zisserman. His current research focuses on self-supervised learning, efficient learning, and video understanding.</p>
 <h1 id="abstract">
   Abstract
   <a class="heading-link" href="#abstract">
     <i class="fa fa-link" aria-hidden="true"></i>
   </a>
 </h1>
-<p>Over the years, there have been significant developments in 3D human models, particularly in the areas of reconstruction and generation. Technically, reconstruction methods rely on large and hard-to-obtain 3D human dataset, while generation approaches still need a higher-fidelity and more efficient pipeline. In this talk, I will introduce our recent works in these two areas: (1) 3D human reconstruction: JIFF for face-enhance quality from a single image and SeSDF for uncalibrated multi-view scenarios; and (2) 3D human avatar generation: DreamAvatar for controllable 3D human avatar generation, HeadSculpt for editing 3D head avatars while preserving the original identity, and Guide3D for creating 3D human by combining the metrics from reconstruction and generation.</p>
+<p>Understanding long videos is one of the pinnacles in computer vision. The long-time axis introduces extra challenges compared with images or short videos, and exhaustive manual annotation on long videos is infeasible. In this talk, I will introduce several works using minimal human annotations on two types of long videos: instructional videos like those from YouTube, and movies that span longer than one hour.</p>
 <h1 id="video">
   Video
   <a class="heading-link" href="#video">
     <i class="fa fa-link" aria-hidden="true"></i>
   </a>
 </h1>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCJxPWCFFC8?si=WYYdIz55ZYY_xZHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oLioIE-1ntY?si=JYX25VUC3_dS2HDz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
       </div>
 
 

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yukang Cao on The AI Talks</title>
+    <link>http://theaitalks.org/authors/yukang-cao/</link>
+    <description>Recent content in Yukang Cao on The AI Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 07 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/authors/yukang-cao/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D Human Modelling from Image and Text Guidance</title>
+      <link>http://theaitalks.org/talks/2023/1207/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2023/1207/</guid>
+      <description>Speaker Yukang Cao is a final-year Ph.D. student at The University of Hong Kong with HKU-PS scholarship. He is under the supervision of Dr. Kenneth Wong and works closely with Dr. Kai Han. Throughout his academic journey, he has gained valuable experiences at UT-Austin, PKU, THU, and Tencent. His research interests lie in 3D modelling of the virtual world, with a particular focus on 3D human reconstruction and the generation of 3D avatars.</description>
+    </item>
+    
+  </channel>
+</rss>
