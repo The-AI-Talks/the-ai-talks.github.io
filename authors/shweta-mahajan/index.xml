@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shweta Mahajan on The AI Talks</title>
+    <link>http://theaitalks.org/authors/shweta-mahajan/</link>
+    <description>Recent content in Shweta Mahajan on The AI Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/authors/shweta-mahajan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multimodal Representation Learning with Deep Generative Models</title>
+      <link>http://theaitalks.org/talks/2023/1005/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2023/1005/</guid>
+      <description>Speaker Shweta is currently a postdoctoral researcher in the Vision Group at the University of British Columbia. She obtained her Ph.D. under the supervision of Prof. Stefan Roth, Ph.D. at Technische Universität Darmstadt. Her Ph.D. thesis has been nominated for the Bertha Benz Best Thesis Award and the GI Dissertation Award 2023. During her Ph.D., she conducted research on deep generative algorithms for multimodal representation learning and the efficiency of exact inference deep generative models.</description>
+    </item>
+    
+  </channel>
+</rss>
