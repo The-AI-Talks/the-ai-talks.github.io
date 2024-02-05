@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Murtaza Dalal on The AI Talks</title>
+    <link>http://theaitalks.org/authors/murtaza-dalal/</link>
+    <description>Recent content in Murtaza Dalal on The AI Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/authors/murtaza-dalal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inductive Biases for Learning Long-Horizon Manipulation Skills</title>
+      <link>http://theaitalks.org/talks/2023/1130/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2023/1130/</guid>
+      <description>Speaker Murtaza Dalal is a Ph.D. student at Carnegie Mellon University, advised by Ruslan Salakhutdinov. His research is on machine learning for robotics, specifically enabling robot agents to learn and perform long-horizon manipulation behaviors.
+Abstract Enabling robots to execute temporally extended sequences of behaviors is a challenging problem for learned systems, due to the difficulty of learning both high-level task information and low-level control. In this talk, I will discuss three approaches that we have developed to address this problem.</description>
+    </item>
+    
+  </channel>
+</rss>
