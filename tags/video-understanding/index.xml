@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>video understanding on The AI Talks</title>
+    <link>http://theaitalks.org/tags/video-understanding/</link>
+    <description>Recent content in video understanding on The AI Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 16 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/video-understanding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning visual language models for video understanding</title>
+      <link>http://theaitalks.org/talks/2023/1116/</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2023/1116/</guid>
+      <description>Speaker Antoine Yang is a Research Scientist at Google DeepMind on the Computer Vision team in London. In 2023, he completed his Ph.D. in the WILLOW team of Inria Paris and École Normale Supérieure. In 2020, he received a double MSc degree in Applied Mathematics from École Polytechnique and ENS Paris-Saclay. He previously interned at Huawei Noah&amp;rsquo;s Ark Lab and Google Research Perception.
+Abstract Language models have become increasingly powerful in recent years, but they cannot perceive the world around us.</description>
+    </item>
+    
+  </channel>
+</rss>

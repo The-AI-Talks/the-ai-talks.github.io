@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaojian Ma on The AI Talks</title>
+    <link>http://theaitalks.org/authors/xiaojian-ma/</link>
+    <description>Recent content in Xiaojian Ma on The AI Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 23 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/authors/xiaojian-ma/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Generalist Embodied AI in an Open World</title>
+      <link>http://theaitalks.org/talks/2023/1123/</link>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2023/1123/</guid>
+      <description>Speaker Xiaojian Ma is a research scientist at Beijing Institute for General Artificial Intelligence (BIGAI). He received his Ph.D. in Computer Science at UCLA and a bachelor&amp;rsquo;s degree in Computer Science at Tsinghua University. His research interest primarily focuses on large-scale multimodal learning for understanding, reasoning, and skill learning. In particular, He is interested in building models/agents that can learn from 2D/3D vision and text data, and perform a wide range of reasoning, embodied planning, and control tasks.</description>
+    </item>
+    
+  </channel>
+</rss>

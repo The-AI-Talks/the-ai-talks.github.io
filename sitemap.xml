@@ -2,28 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://theaitalks.org/authors/</loc>
+    <lastmod>2023-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/embodied-ai/</loc>
+    <lastmod>2023-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/talks/2023/1123/</loc>
+    <lastmod>2023-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/</loc>
+    <lastmod>2023-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/talks/</loc>
+    <lastmod>2023-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/</loc>
+    <lastmod>2023-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/authors/xiaojian-ma/</loc>
+    <lastmod>2023-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/authors/antoine-yang/</loc>
+    <lastmod>2023-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/talks/2023/1116/</loc>
+    <lastmod>2023-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/video-understanding/</loc>
+    <lastmod>2023-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://theaitalks.org/tags/visual-language-models/</loc>
+    <lastmod>2023-11-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://theaitalks.org/tags/3d-generative-model/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/talks/2023/1026/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://theaitalks.org/authors/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://theaitalks.org/authors/ayush-tewari/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/tags/generative-model/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/tags/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/talks/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/tags/3d-editing/</loc>
@@ -199,9 +220,6 @@
   </url><url>
     <loc>http://theaitalks.org/authors/xuefeng-du/</loc>
     <lastmod>2023-02-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://theaitalks.org/tags/embodied-ai/</loc>
-    <lastmod>2023-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://theaitalks.org/authors/jim-fan/</loc>
     <lastmod>2023-02-16T00:00:00+00:00</lastmod>

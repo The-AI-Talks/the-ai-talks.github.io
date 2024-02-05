@@ -6,7 +6,26 @@
     <description>Recent content on The AI Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Generalist Embodied AI in an Open World</title>
+      <link>http://theaitalks.org/talks/2023/1123/</link>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2023/1123/</guid>
+      <description>Speaker Xiaojian Ma is a research scientist at Beijing Institute for General Artificial Intelligence (BIGAI). He received his Ph.D. in Computer Science at UCLA and a bachelor&amp;rsquo;s degree in Computer Science at Tsinghua University. His research interest primarily focuses on large-scale multimodal learning for understanding, reasoning, and skill learning. In particular, He is interested in building models/agents that can learn from 2D/3D vision and text data, and perform a wide range of reasoning, embodied planning, and control tasks.</description>
+    </item>
+    
+    <item>
+      <title>Learning visual language models for video understanding</title>
+      <link>http://theaitalks.org/talks/2023/1116/</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2023/1116/</guid>
+      <description>Speaker Antoine Yang is a Research Scientist at Google DeepMind on the Computer Vision team in London. In 2023, he completed his Ph.D. in the WILLOW team of Inria Paris and École Normale Supérieure. In 2020, he received a double MSc degree in Applied Mathematics from École Polytechnique and ENS Paris-Saclay. He previously interned at Huawei Noah&amp;rsquo;s Ark Lab and Google Research Perception.
+Abstract Language models have become increasingly powerful in recent years, but they cannot perceive the world around us.</description>
+    </item>
+    
     <item>
       <title>3D Structured Generative Models</title>
       <link>http://theaitalks.org/talks/2023/1026/</link>

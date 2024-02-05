@@ -6,7 +6,34 @@
     <description>Recent content in Tags on The AI Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>embodied AI</title>
+      <link>http://theaitalks.org/tags/embodied-ai/</link>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/embodied-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>video understanding</title>
+      <link>http://theaitalks.org/tags/video-understanding/</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/video-understanding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visual language models</title>
+      <link>http://theaitalks.org/tags/visual-language-models/</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/visual-language-models/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>3d generative model</title>
       <link>http://theaitalks.org/tags/3d-generative-model/</link>
@@ -220,15 +247,6 @@
       <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>http://theaitalks.org/tags/object-detection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>embodied AI</title>
-      <link>http://theaitalks.org/tags/embodied-ai/</link>
-      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://theaitalks.org/tags/embodied-ai/</guid>
       <description></description>
     </item>
     
