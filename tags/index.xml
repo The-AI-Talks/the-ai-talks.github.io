@@ -6,7 +6,25 @@
     <description>Recent content in Tags on The AI Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>reasoning</title>
+      <link>http://theaitalks.org/tags/reasoning/</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/reasoning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>video generation</title>
+      <link>http://theaitalks.org/tags/video-generation/</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/video-generation/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>embodied AI</title>
       <link>http://theaitalks.org/tags/embodied-ai/</link>
