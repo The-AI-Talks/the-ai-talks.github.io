@@ -6,7 +6,25 @@
     <description>Recent content in Tags on The AI Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>limited data</title>
+      <link>http://theaitalks.org/tags/limited-data/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/limited-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>order scaling</title>
+      <link>http://theaitalks.org/tags/order-scaling/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/order-scaling/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>reasoning</title>
       <link>http://theaitalks.org/tags/reasoning/</link>
@@ -22,6 +40,42 @@
       <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
       
       <guid>http://theaitalks.org/tags/video-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>evolutionary biology</title>
+      <link>http://theaitalks.org/tags/evolutionary-biology/</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/evolutionary-biology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neuroscience</title>
+      <link>http://theaitalks.org/tags/neuroscience/</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/neuroscience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large Foundation Models</title>
+      <link>http://theaitalks.org/tags/large-foundation-models/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/large-foundation-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Resource Devices</title>
+      <link>http://theaitalks.org/tags/low-resource-devices/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/low-resource-devices/</guid>
       <description></description>
     </item>
     

@@ -6,7 +6,16 @@
     <description>Recent content in Talks on The AI Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/talks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scaling Beyond Autoregression</title>
+      <link>http://theaitalks.org/talks/2025/1208/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2025/1208/</guid>
+      <description>Speaker Jinjie Ni is an AI researcher and dedicated individual contributor at the National University of Singapore, working with Prof. Michael Shieh. His work centers on next generation modeling paradigms and the design of scalable foundation model systems. He is currently focused on several core areas: (1) LLM pretraining, scaling, and architectural innovation; (2) reinforcement learning methods that enhance reasoning capabilities in large language models; (3) and algorithm–system co design aimed at pushing model efficiency and performance.</description>
+    </item>
+    
     <item>
       <title>Video models are zero-shot learners and reasoners</title>
       <link>http://theaitalks.org/talks/2025/1028/</link>
@@ -16,6 +25,24 @@
       <description>Speaker Thaddäus Wiedemer is a 4th-year PhD student in the International Max Planck Research School for Intelligent Systems in Germany, currently interning at Google Deepmind Toronto. Most of his PhD focused on benchmarking robustness and generalization capabilities of large vision-language, language, and video models. His current research explores multi-modal reasoning with video models and how post-training can enable exploration beyond the pretraining data.
 Thaddäus’s homepage: https://thaddaeuswiedemer.github.io/
 Abstract The remarkable zero-shot capabilities of Large Language Models (LLMs) have propelled natural language processing from task-specific models to unified, generalist foundation models.</description>
+    </item>
+    
+    <item>
+      <title>The Tolman-Sherrington Metamorphosis of Intelligence</title>
+      <link>http://theaitalks.org/talks/2025/1023/</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2025/1023/</guid>
+      <description>Speaker Hokin Deng is is an independent researcher and founder of Growing AI Like A Child (GrowAI). He was formerly a founding Member of Technical Staff at Myolab.ai, a VC-backed human embodiment intelligence startup. Before that, he worked at Harvard University on single-cell cognition, and previously was a neural engineer at Johns Hopkins Hospital and an affiliated research scientist at Meta Reality Labs for neural wristband. He studied neuroscience and philosophy at JHU.</description>
+    </item>
+    
+    <item>
+      <title>Towards Packing the Intelligence of Large Foundation Models on Low Resource Devices</title>
+      <link>http://theaitalks.org/talks/2025/0521/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2025/0521/</guid>
+      <description>Speaker Dr. Souvik Kundu (Member IEEE, ACM) is currently a Staff Research scientist at Intel Labs, USA, leading research efforts in scalable and novel AI primitives for foundation models. Souvik received the prestigious AI Rising Star recognition in 2025 from CPAL and Stanford Data Science. He was among the youngest recipients of the Semiconductor Research Corporation Outstanding Industry Liaison Award in 2023. Souvik has played active role in various key efficiency innovations including the LLM KV cache quantization, N:M Sparsity, and efficient long-context understanding generalization for LLMs/VLMs.</description>
     </item>
     
     <item>

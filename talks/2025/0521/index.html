@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="author" content="The AI Talks">
+<meta name="description" content="Speaker Dr. Souvik Kundu (Member IEEE, ACM) is currently a Staff Research scientist at Intel Labs, USA, leading research efforts in scalable and novel AI primitives for foundation models. Souvik received the prestigious AI Rising Star recognition in 2025 from CPAL and Stanford Data Science. He was among the youngest recipients of the Semiconductor Research Corporation Outstanding Industry Liaison Award in 2023. Souvik has played active role in various key efficiency innovations including the LLM KV cache quantization, N:M Sparsity, and efficient long-context understanding generalization for LLMs/VLMs.">
+<meta name="keywords" content="The AI Talks, AI, Machine Learning, Computer Science">
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Towards Packing the Intelligence of Large Foundation Models on Low Resource Devices"/>
+<meta name="twitter:description" content="Speaker Dr. Souvik Kundu (Member IEEE, ACM) is currently a Staff Research scientist at Intel Labs, USA, leading research efforts in scalable and novel AI primitives for foundation models. Souvik received the prestigious AI Rising Star recognition in 2025 from CPAL and Stanford Data Science. He was among the youngest recipients of the Semiconductor Research Corporation Outstanding Industry Liaison Award in 2023. Souvik has played active role in various key efficiency innovations including the LLM KV cache quantization, N:M Sparsity, and efficient long-context understanding generalization for LLMs/VLMs."/>
+
+<meta property="og:title" content="Towards Packing the Intelligence of Large Foundation Models on Low Resource Devices" />
+<meta property="og:description" content="Speaker Dr. Souvik Kundu (Member IEEE, ACM) is currently a Staff Research scientist at Intel Labs, USA, leading research efforts in scalable and novel AI primitives for foundation models. Souvik received the prestigious AI Rising Star recognition in 2025 from CPAL and Stanford Data Science. He was among the youngest recipients of the Semiconductor Research Corporation Outstanding Industry Liaison Award in 2023. Souvik has played active role in various key efficiency innovations including the LLM KV cache quantization, N:M Sparsity, and efficient long-context understanding generalization for LLMs/VLMs." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://theaitalks.org/talks/2025/0521/" /><meta property="article:section" content="talks" />
+<meta property="article:published_time" content="2025-05-21T00:00:00+00:00" />
+<meta property="article:modified_time" content="2025-05-21T00:00:00+00:00" />
+
+
+
+
+  <title>The AI Talks</title>
+
+  
+  <link rel="canonical" href="http://theaitalks.org/talks/2025/0521/">
+  
+
+  <link rel="preload" href="/fonts/forkawesome-webfont.woff2?v=1.2.0" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/css/coder.min.5d9e92b56f30af2bb26c7c6bc87dbb3136248859d5bdf7b663786291f71d6055.css" integrity="sha256-XZ6StW8wryuybHxryH27MTYkiFnVvfe2Y3hikfcdYFU=" crossorigin="anonymous" media="screen" />
+
+
+
+
+
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/coder-dark.min.39e41a7f16bdf8cb16e43cae7d714fa1016f1d2d2898a5b3f27f42c9979204e2.css" integrity="sha256-OeQafxa9&#43;MsW5DyufXFPoQFvHS0omKWz8n9CyZeSBOI=" crossorigin="anonymous" media="screen" />
+  
+
+
+
+   
+  
+    
+    <link rel="stylesheet" href="/css/custom.min.ed2d2a97f7f0cc62d94e43aee036e965a8d3521cdc17bbb4b7d39e8dab764d99.css" integrity="sha256-7S0ql/fwzGLZTkOu4DbpZajTUhzcF7u0t9Oejat2TZk=" crossorigin="anonymous" media="screen" />
+  
+
+
+
+
+
+  <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+  
+
+  <meta name="generator" content="Hugo 0.107.0">
+
+
+  
+
+</head>
+
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-auto">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="/">
+      The AI Talks
+    </a>
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/about/">About</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/organizers/">Organizers</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/speakers/">Speakers</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/talks/">Talks</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/subscribe/">Subscribe</a>
+            </li>
+          
+        
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="http://theaitalks.org/talks/2025/0521/">
+              Towards Packing the Intelligence of Large Foundation Models on Low Resource Devices
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa fa-calendar" aria-hidden="true"></i>
+              <time datetime="2025-05-21T00:00:00Z">
+                21-05-2025
+              </time>
+            </span>
+          </div>
+          <div class="authors">
+  <i class="fa fa-user" aria-hidden="true"></i>
+    <a href="/authors/souvik-kundu/">Souvik Kundu</a></div>
+
+          
+          <div class="tags">
+  <i class="fa fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/tags/large-foundation-models/">Large Foundation Models</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/low-resource-devices/">Low Resource Devices</a>
+    </span></div>
+
+        </div>
+      </header>
+
+      <div>
+        
+        <h1 id="speaker">
+  Speaker
+  <a class="heading-link" href="#speaker">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h1>
+<p>Dr. Souvik Kundu (Member IEEE, ACM) is currently a Staff Research scientist at Intel Labs, USA, leading research efforts in scalable and novel AI primitives for foundation models. Souvik received the prestigious AI Rising Star recognition in 2025 from CPAL and Stanford Data Science. He was among the youngest recipients of the Semiconductor Research Corporation Outstanding Industry Liaison Award in 2023. Souvik has played active role in various key efficiency innovations including the LLM KV cache quantization, N:M Sparsity, and efficient long-context understanding generalization for LLMs/VLMs. Souvik serves as the “founding PC” of the ICLR Workshop on Scalable Optimization for Efficient and Adaptive Foundation Models, AC of flagship venues including NeurIPS, ACL, and DAC.</p>
+<h1 id="abstract">
+  Abstract
+  <a class="heading-link" href="#abstract">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h1>
+<p>With the emergence of large foundation models (LFMs), artificial intelligence (AI) has found its use-cases in various automations across multiple modalities. With this increasing surge of AI assistance, there has been increasing demand for deployment of these models at the edge including AI personal computers (AIPCs) and mobile devices. However, these deployments at scale face a fundamental challenge of deploying large models on a small computation and memory budget. Moreover, AI assisted tasks like long context reasoning require additional memory overhead of long prefix storage. In the quest to bring the potential of AI intelligence at edge, we, at Intel Labs, are exploring various avenues to tackle the memory and compute challenges of the LFMs. Specifically, in this talk I will highlight some of our key research outcomes over the past year, in the space of post training optimizations of LFMs. These optimizations not only enable the model to reduce the compute and memory cost, improving the tokens/watt budget, but also enable new opportunities of context extension during inference time.</p>
+<h1 id="video">
+  Video
+  <a class="heading-link" href="#video">
+    <i class="fa fa-link" aria-hidden="true"></i>
+  </a>
+</h1>
+<p>Coming soon. Stay tuned. :-)</p>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+      2022 -
+    
+    2025
+     The AI Talks 
+    ·
+    
+    Powered by <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+  
+  <script src="/js/coder.min.236049395dc3682fb2719640872958e12f1f24067bb09c327b233e6290c7edac.js" integrity="sha256-I2BJOV3DaC&#43;ycZZAhylY4S8fJAZ7sJwyeyM&#43;YpDH7aw="></script>
+  
+
+  
+
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7L2H1Q8FMQ"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-7L2H1Q8FMQ', { 'anonymize_ip': false });
+}
+</script>
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+
+</html>

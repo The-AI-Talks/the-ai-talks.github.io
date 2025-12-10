@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Large Foundation Models on The AI Talks</title>
+    <link>http://theaitalks.org/tags/large-foundation-models/</link>
+    <description>Recent content in Large Foundation Models on The AI Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 21 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/large-foundation-models/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Towards Packing the Intelligence of Large Foundation Models on Low Resource Devices</title>
+      <link>http://theaitalks.org/talks/2025/0521/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2025/0521/</guid>
+      <description>Speaker Dr. Souvik Kundu (Member IEEE, ACM) is currently a Staff Research scientist at Intel Labs, USA, leading research efforts in scalable and novel AI primitives for foundation models. Souvik received the prestigious AI Rising Star recognition in 2025 from CPAL and Stanford Data Science. He was among the youngest recipients of the Semiconductor Research Corporation Outstanding Industry Liaison Award in 2023. Souvik has played active role in various key efficiency innovations including the LLM KV cache quantization, N:M Sparsity, and efficient long-context understanding generalization for LLMs/VLMs.</description>
+    </item>
+    
+  </channel>
+</rss>

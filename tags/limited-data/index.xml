@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>limited data on The AI Talks</title>
+    <link>http://theaitalks.org/tags/limited-data/</link>
+    <description>Recent content in limited data on The AI Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 08 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/limited-data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scaling Beyond Autoregression</title>
+      <link>http://theaitalks.org/talks/2025/1208/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2025/1208/</guid>
+      <description>Speaker Jinjie Ni is an AI researcher and dedicated individual contributor at the National University of Singapore, working with Prof. Michael Shieh. His work centers on next generation modeling paradigms and the design of scalable foundation model systems. He is currently focused on several core areas: (1) LLM pretraining, scaling, and architectural innovation; (2) reinforcement learning methods that enhance reasoning capabilities in large language models; (3) and algorithm–system co design aimed at pushing model efficiency and performance.</description>
+    </item>
+    
+  </channel>
+</rss>

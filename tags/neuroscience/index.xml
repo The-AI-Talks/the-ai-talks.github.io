@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>neuroscience on The AI Talks</title>
+    <link>http://theaitalks.org/tags/neuroscience/</link>
+    <description>Recent content in neuroscience on The AI Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 23 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/neuroscience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Tolman-Sherrington Metamorphosis of Intelligence</title>
+      <link>http://theaitalks.org/talks/2025/1023/</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2025/1023/</guid>
+      <description>Speaker Hokin Deng is is an independent researcher and founder of Growing AI Like A Child (GrowAI). He was formerly a founding Member of Technical Staff at Myolab.ai, a VC-backed human embodiment intelligence startup. Before that, he worked at Harvard University on single-cell cognition, and previously was a neural engineer at Johns Hopkins Hospital and an affiliated research scientist at Meta Reality Labs for neural wristband. He studied neuroscience and philosophy at JHU.</description>
+    </item>
+    
+  </channel>
+</rss>
