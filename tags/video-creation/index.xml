@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video Creation on The AI Talks</title>
+    <link>http://theaitalks.org/tags/video-creation/</link>
+    <description>Recent content in Video Creation on The AI Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/video-creation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Video Creation with Diffusion Models</title>
+      <link>http://theaitalks.org/talks/2024/0222-2/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2024/0222-2/</guid>
+      <description>Speaker Zhangjie Wu is a third-year Ph.D. student at Show Lab, National University of Singapore, working with Prof. Mike Zheng Shou. Prior to this, he obtained his Bachelor&amp;rsquo;s degree in Computer Science from Shen Yuan Honors College at Beihang University. His research focuses on AI for video understanding and generation. His representative works include Tune-A-Video, Show-1, and MotionDirector.
+Abstract Diffusion models have ushered in a new era of video content creation.</description>
+    </item>
+    
+  </channel>
+</rss>

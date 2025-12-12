@@ -46,6 +46,45 @@ Abstract The remarkable zero-shot capabilities of Large Language Models (LLMs) h
     </item>
     
     <item>
+      <title>Distilling Vision-Language Models on Millions of Videos</title>
+      <link>http://theaitalks.org/talks/2024/0222-1/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2024/0222-1/</guid>
+      <description>Speaker Yue Zhao is a fourth-year PhD student at the University of Texas at Austin, supervised by Prof. Philipp Krähenbühl. He obtained his MPhil degree from the Multimedia Laboratory at the Chinese University of Hong Kong, supervised by Prof. Dahua Lin. More previously, he got his Bachelor&amp;rsquo;s degree from Tsinghua University. His current research interests are computer vision, particularly video analysis and understanding. He is a recipient of the 2024-2025 NVIDIA fellowship.</description>
+    </item>
+    
+    <item>
+      <title>Video Creation with Diffusion Models</title>
+      <link>http://theaitalks.org/talks/2024/0222-2/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2024/0222-2/</guid>
+      <description>Speaker Zhangjie Wu is a third-year Ph.D. student at Show Lab, National University of Singapore, working with Prof. Mike Zheng Shou. Prior to this, he obtained his Bachelor&amp;rsquo;s degree in Computer Science from Shen Yuan Honors College at Beihang University. His research focuses on AI for video understanding and generation. His representative works include Tune-A-Video, Show-1, and MotionDirector.
+Abstract Diffusion models have ushered in a new era of video content creation.</description>
+    </item>
+    
+    <item>
+      <title>Towards Learning a Driving Simulator from the Real World</title>
+      <link>http://theaitalks.org/talks/2024/0219/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2024/0219/</guid>
+      <description>Speaker Yiyi Liao is an assistant professor at Zhejiang University. Prior to that, she received her Ph.D. degree from Zhejiang University and subsequently worked as a Postdoc in MPI for Intelligent Systems and the University of Tübingen. Her research interest lies in 3D computer vision, including 3D scene understanding, 3D reconstruction, and 3D-aware image synthesis.
+Abstract A high-fidelity simulation platform has significant value for the development of autonomous driving. Conventional simulation platforms, manually crafted, often deviate from reality and entail substantial costs.</description>
+    </item>
+    
+    <item>
+      <title>InstantID: Zero-shot Identity-Preserving Generation in Seconds</title>
+      <link>http://theaitalks.org/talks/2024/0215/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2024/0215/</guid>
+      <description>Speaker Haofan Wang is a research engineer at Xiaohongshu, working primarily on controllable and conditional content generation. Before that, he worked at MMU, Kuaishou. He obtained master degree from CMU in December 2020. His featured works inlcude InstantID and Score-CAM.
+Abstract There has been significant progress in personalized image synthesis with methods such as Textual Inversion, DreamBooth, and LoRA. Yet, their real-world applicability is hindered by high storage demands, lengthy fine-tuning processes, and the need for multiple reference images.</description>
+    </item>
+    
+    <item>
       <title>Long video understanding with minimal supervision</title>
       <link>http://theaitalks.org/talks/2023/1221/</link>
       <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>

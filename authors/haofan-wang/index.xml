@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haofan Wang on The AI Talks</title>
+    <link>http://theaitalks.org/authors/haofan-wang/</link>
+    <description>Recent content in Haofan Wang on The AI Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/authors/haofan-wang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>InstantID: Zero-shot Identity-Preserving Generation in Seconds</title>
+      <link>http://theaitalks.org/talks/2024/0215/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2024/0215/</guid>
+      <description>Speaker Haofan Wang is a research engineer at Xiaohongshu, working primarily on controllable and conditional content generation. Before that, he worked at MMU, Kuaishou. He obtained master degree from CMU in December 2020. His featured works inlcude InstantID and Score-CAM.
+Abstract There has been significant progress in personalized image synthesis with methods such as Textual Inversion, DreamBooth, and LoRA. Yet, their real-world applicability is hindered by high storage demands, lengthy fine-tuning processes, and the need for multiple reference images.</description>
+    </item>
+    
+  </channel>
+</rss>
