@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shashank Tripathi on The AI Talks</title>
+    <link>http://theaitalks.org/authors/shashank-tripathi/</link>
+    <description>Recent content in Shashank Tripathi on The AI Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/authors/shashank-tripathi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Physics-informed Modeling of Dynamic Humans and their Interactions</title>
+      <link>http://theaitalks.org/talks/2024/0328-1/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2024/0328-1/</guid>
+      <description>Speaker Shashank Tripathi is a final year PhD student at the Max Planck Institute for Intelligent Systems (MPI-IS), where he is advised by Prof. Michael Black. Previously, he worked as an Applied Scientist at Amazon. Shashank earned his Masters from the Robotics Institute at Carnegie Mellon University, under the supervision of Prof. Kris Kitani. His research broadly lies at the intersection of computer vision, machine learning, and computer graphics, with a particular focus on 3D modeling of human bodies, modeling human-object interactions, and physics-inspired human motion understanding.</description>
+    </item>
+    
+  </channel>
+</rss>

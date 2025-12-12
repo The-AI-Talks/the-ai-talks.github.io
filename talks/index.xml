@@ -6,7 +6,18 @@
     <description>Recent content in Talks on The AI Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/talks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TBD</title>
+      <link>http://theaitalks.org/talks/2024/0321/</link>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2024/0321/</guid>
+      <description>Speaker TBD.
+Abstract TBD.
+Video Coming soon. Stay tuned. :-)</description>
+    </item>
+    
     <item>
       <title>Scaling Beyond Autoregression</title>
       <link>http://theaitalks.org/talks/2025/1208/</link>
@@ -46,9 +57,66 @@ Abstract The remarkable zero-shot capabilities of Large Language Models (LLMs) h
     </item>
     
     <item>
+      <title>Visual Human Motion Analysis</title>
+      <link>http://theaitalks.org/talks/2024/0715/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2024/0715/</guid>
+      <description>Speaker TBD.
+Abstract TBD.
+Video Coming soon. Stay tuned. :-)</description>
+    </item>
+    
+    <item>
+      <title>Guardian of Trust in Language Models: Automatic Jailbreak and Systematic Defense</title>
+      <link>http://theaitalks.org/talks/2024/0404/</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2024/0404/</guid>
+      <description>Speaker Haohan Wang is an assistantprofessor in the School of Information Sciences at the University of IllinoisUrbana-Champaign. His research focuses on the development of trustworthymachine learning methods for computational biology and healthcare applications.In his work, he uses statistical analysis and deep learning methods, with anemphasis on data analysis using methods least influenced by spurious signals.Wang earned his PhD in computer science through the Language TechnologiesInstitute of Carnegie Mellon University. He is also an organizer of TrustworthyMachine Learning Initiative.</description>
+    </item>
+    
+    <item>
+      <title>Physics-informed Modeling of Dynamic Humans and their Interactions</title>
+      <link>http://theaitalks.org/talks/2024/0328-1/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2024/0328-1/</guid>
+      <description>Speaker Shashank Tripathi is a final year PhD student at the Max Planck Institute for Intelligent Systems (MPI-IS), where he is advised by Prof. Michael Black. Previously, he worked as an Applied Scientist at Amazon. Shashank earned his Masters from the Robotics Institute at Carnegie Mellon University, under the supervision of Prof. Kris Kitani. His research broadly lies at the intersection of computer vision, machine learning, and computer graphics, with a particular focus on 3D modeling of human bodies, modeling human-object interactions, and physics-inspired human motion understanding.</description>
+    </item>
+    
+    <item>
+      <title>Towards democratising robot learning for all</title>
+      <link>http://theaitalks.org/talks/2024/0328-2/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2024/0328-2/</guid>
+      <description>Speaker Jiafei Duan is currently a second-year PhD student at the Robotics and State Estimation Lab, University of Washington, under the advisory of Professor Dieter Fox and Ranjay Krishna. His research interest lies in intersection between robot learning, embodied AI and computer vision. Mr Duan served as the lead author in several embodied AI and robotics papers published in top-tier AI conferences and journals (including NeurIPS, IJCAI, EMNLP, ICLR, ICCV, ECCV, CoRL, and IEEE TETCI).</description>
+    </item>
+    
+    <item>
+      <title>LLaVA: A Vision-and-Language Approach to Computer Vision in the Wild</title>
+      <link>http://theaitalks.org/talks/2024/0318/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2024/0318/</guid>
+      <description>Speaker Chunyuan Li is currently a Research Lead at ByteDance/TikTok, based in the Seattle area. From 2018 to 2023, He worked as a Principal Researcher in the Deep Learning Team at Microsoft Research, Redmond. Before that, Chunyuan obtained his PhD at Duke University, working on probabilistic deep learning. He also spent time with Uber AI, Adobe Research, NIST and INRIA. At MSR, Chunyuan is mainly working on large-scale pre-training in computer vision (CV) and vision-language multimodality (MM), with a focus on building transferable vision models that can effortlessly generalize to a wide range of downstream CV &amp;amp; MM tasks.</description>
+    </item>
+    
+    <item>
+      <title>Understanding and Mitigating the Pre-training Noise on Downstream Tasks</title>
+      <link>http://theaitalks.org/talks/2024/0229/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2024/0229/</guid>
+      <description>Speaker Hao Chen is a 3rd Ph.D. candidate at Carnegie Mellon University. He is advised by Prof. Bhiksha Raj and collaborates with Dr. Jindong Wang. His current research interest, in general, lies in learning with weak supervision and understanding the robustness and generalization of large foundation models. Previously, he was mainly working on semi-supervised learning and parameter-efficient transfer learning.
+Abstract Recent advancements in large foundation models have showcased their remarkable ability to generalize across various tasks.</description>
+    </item>
+    
+    <item>
       <title>Distilling Vision-Language Models on Millions of Videos</title>
       <link>http://theaitalks.org/talks/2024/0222-1/</link>
-      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>http://theaitalks.org/talks/2024/0222-1/</guid>
       <description>Speaker Yue Zhao is a fourth-year PhD student at the University of Texas at Austin, supervised by Prof. Philipp Krähenbühl. He obtained his MPhil degree from the Multimedia Laboratory at the Chinese University of Hong Kong, supervised by Prof. Dahua Lin. More previously, he got his Bachelor&amp;rsquo;s degree from Tsinghua University. His current research interests are computer vision, particularly video analysis and understanding. He is a recipient of the 2024-2025 NVIDIA fellowship.</description>
@@ -57,7 +125,7 @@ Abstract The remarkable zero-shot capabilities of Large Language Models (LLMs) h
     <item>
       <title>Video Creation with Diffusion Models</title>
       <link>http://theaitalks.org/talks/2024/0222-2/</link>
-      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>http://theaitalks.org/talks/2024/0222-2/</guid>
       <description>Speaker Zhangjie Wu is a third-year Ph.D. student at Show Lab, National University of Singapore, working with Prof. Mike Zheng Shou. Prior to this, he obtained his Bachelor&amp;rsquo;s degree in Computer Science from Shen Yuan Honors College at Beihang University. His research focuses on AI for video understanding and generation. His representative works include Tune-A-Video, Show-1, and MotionDirector.
@@ -67,7 +135,7 @@ Abstract Diffusion models have ushered in a new era of video content creation.</
     <item>
       <title>Towards Learning a Driving Simulator from the Real World</title>
       <link>http://theaitalks.org/talks/2024/0219/</link>
-      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>http://theaitalks.org/talks/2024/0219/</guid>
       <description>Speaker Yiyi Liao is an assistant professor at Zhejiang University. Prior to that, she received her Ph.D. degree from Zhejiang University and subsequently worked as a Postdoc in MPI for Intelligent Systems and the University of Tübingen. Her research interest lies in 3D computer vision, including 3D scene understanding, 3D reconstruction, and 3D-aware image synthesis.

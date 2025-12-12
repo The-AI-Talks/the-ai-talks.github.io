@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hao Chen on The AI Talks</title>
+    <link>http://theaitalks.org/authors/hao-chen/</link>
+    <description>Recent content in Hao Chen on The AI Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/authors/hao-chen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding and Mitigating the Pre-training Noise on Downstream Tasks</title>
+      <link>http://theaitalks.org/talks/2024/0229/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2024/0229/</guid>
+      <description>Speaker Hao Chen is a 3rd Ph.D. candidate at Carnegie Mellon University. He is advised by Prof. Bhiksha Raj and collaborates with Dr. Jindong Wang. His current research interest, in general, lies in learning with weak supervision and understanding the robustness and generalization of large foundation models. Previously, he was mainly working on semi-supervised learning and parameter-efficient transfer learning.
+Abstract Recent advancements in large foundation models have showcased their remarkable ability to generalize across various tasks.</description>
+    </item>
+    
+  </channel>
+</rss>

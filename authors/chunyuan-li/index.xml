@@ -6,7 +6,16 @@
     <description>Recent content in Chunyuan Li on The AI Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/authors/chunyuan-li/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/authors/chunyuan-li/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LLaVA: A Vision-and-Language Approach to Computer Vision in the Wild</title>
+      <link>http://theaitalks.org/talks/2024/0318/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2024/0318/</guid>
+      <description>Speaker Chunyuan Li is currently a Research Lead at ByteDance/TikTok, based in the Seattle area. From 2018 to 2023, He worked as a Principal Researcher in the Deep Learning Team at Microsoft Research, Redmond. Before that, Chunyuan obtained his PhD at Duke University, working on probabilistic deep learning. He also spent time with Uber AI, Adobe Research, NIST and INRIA. At MSR, Chunyuan is mainly working on large-scale pre-training in computer vision (CV) and vision-language multimodality (MM), with a focus on building transferable vision models that can effortlessly generalize to a wide range of downstream CV &amp;amp; MM tasks.</description>
+    </item>
+    
     <item>
       <title>A Vision-and-Language Approach to Computer Vision in the Wild: Modeling &amp; Benchmark</title>
       <link>http://theaitalks.org/talks/2022/0908/</link>

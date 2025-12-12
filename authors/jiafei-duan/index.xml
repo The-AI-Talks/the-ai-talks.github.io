@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiafei Duan on The AI Talks</title>
+    <link>http://theaitalks.org/authors/jiafei-duan/</link>
+    <description>Recent content in Jiafei Duan on The AI Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/authors/jiafei-duan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Towards democratising robot learning for all</title>
+      <link>http://theaitalks.org/talks/2024/0328-2/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2024/0328-2/</guid>
+      <description>Speaker Jiafei Duan is currently a second-year PhD student at the Robotics and State Estimation Lab, University of Washington, under the advisory of Professor Dieter Fox and Ranjay Krishna. His research interest lies in intersection between robot learning, embodied AI and computer vision. Mr Duan served as the lead author in several embodied AI and robotics papers published in top-tier AI conferences and journals (including NeurIPS, IJCAI, EMNLP, ICLR, ICCV, ECCV, CoRL, and IEEE TETCI).</description>
+    </item>
+    
+  </channel>
+</rss>

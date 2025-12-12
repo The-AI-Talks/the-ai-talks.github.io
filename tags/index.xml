@@ -80,9 +80,27 @@
     </item>
     
     <item>
+      <title>Vision-Language Model</title>
+      <link>http://theaitalks.org/tags/vision-language-model/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/vision-language-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pre-training Noise</title>
+      <link>http://theaitalks.org/tags/pre-training-noise/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/tags/pre-training-noise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>diffusion models</title>
       <link>http://theaitalks.org/tags/diffusion-models/</link>
-      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>http://theaitalks.org/tags/diffusion-models/</guid>
       <description></description>
@@ -91,7 +109,7 @@
     <item>
       <title>Distillation</title>
       <link>http://theaitalks.org/tags/distillation/</link>
-      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>http://theaitalks.org/tags/distillation/</guid>
       <description></description>
@@ -100,25 +118,16 @@
     <item>
       <title>Video Creation</title>
       <link>http://theaitalks.org/tags/video-creation/</link>
-      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>http://theaitalks.org/tags/video-creation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Vision-Language Model</title>
-      <link>http://theaitalks.org/tags/vision-language-model/</link>
-      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://theaitalks.org/tags/vision-language-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Driving Simulation</title>
       <link>http://theaitalks.org/tags/driving-simulation/</link>
-      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>http://theaitalks.org/tags/driving-simulation/</guid>
       <description></description>
@@ -127,7 +136,7 @@
     <item>
       <title>Neural Rendering</title>
       <link>http://theaitalks.org/tags/neural-rendering/</link>
-      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>http://theaitalks.org/tags/neural-rendering/</guid>
       <description></description>
