@@ -6,16 +6,7 @@
     <description>Recent content in Authors on The AI Talks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/authors/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>TBD</title>
-      <link>http://theaitalks.org/authors/tbd/</link>
-      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://theaitalks.org/authors/tbd/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Mon, 08 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jinjie Ni</title>
       <link>http://theaitalks.org/authors/jinjie-ni/</link>
@@ -53,6 +44,15 @@
     </item>
     
     <item>
+      <title>TBD</title>
+      <link>http://theaitalks.org/authors/tbd/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/authors/tbd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Haohan Wang</title>
       <link>http://theaitalks.org/authors/haohan-wang/</link>
       <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
@@ -76,6 +76,15 @@
       <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>http://theaitalks.org/authors/shashank-tripathi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaolong Wang</title>
+      <link>http://theaitalks.org/authors/xiaolong-wang/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/authors/xiaolong-wang/</guid>
       <description></description>
     </item>
     
