@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Predictive Learning on The AI Talks</title>
+    <link>http://theaitalks.org/tags/predictive-learning/</link>
+    <description>Recent content in Predictive Learning on The AI Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 16 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/tags/predictive-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Towards Spatial Supersensing in Video</title>
+      <link>http://theaitalks.org/talks/2025/1216/</link>
+      <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2025/1216/</guid>
+      <description>Speaker Shusheng Yang is currently a second-year Ph.D. student at NYU Courant, advised by Prof. Saining Xie. His research lies at the intersection of computer vision and multimodal learning, with a specific focus on visual representation learning, spatial intelligence, life-long video understanding, and unified model/world modeling. Please checkout Shusheng’s latest work here: https://scholar.google.com/citations?user=v6dmW5cntoMC&amp;amp;hl=en.
+Abstract While MLLMs have advanced the field of video understanding, we demonstrate that they still treat video as sparse frames, underrepresent spatial structure, and rely heavily on textual recall.</description>
+    </item>
+    
+  </channel>
+</rss>

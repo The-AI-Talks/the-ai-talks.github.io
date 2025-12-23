@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Li Cheng on The AI Talks</title>
+    <link>http://theaitalks.org/authors/li-cheng/</link>
+    <description>Recent content in Li Cheng on The AI Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://theaitalks.org/authors/li-cheng/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visual Human Motion Analysis</title>
+      <link>http://theaitalks.org/talks/2024/0715/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://theaitalks.org/talks/2024/0715/</guid>
+      <description>Speaker Li CHENG is a professor with the Department of Electrical and Computer Engineering, University of Alberta. He is an associate editor of IEEE Transactions on Multimedia. Prior to joining University of Alberta, He worked at A*STAR, Singapore, TTI-Chicago, USA, and NICTA, Australia. His current research interests include human motion analysis, mobile and robot vision, and multimedia data analytics. More recent details can be found at his lab website, https://vision-and-learning-lab-ualberta.</description>
+    </item>
+    
+  </channel>
+</rss>
